@@ -4,31 +4,26 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Teaching Experience
+# Teaching
 
-### IMT Atlantique, Rennes, France
+## IMT Atlantique, Rennes, France
 
-**2023**  
-- Algebra and applied Matlab (11h)
-- Introduction to Python (9h)
-- Python for Data Science (21h)  
-_Taught in English to 23 international MSc students_
+- **Algebra and Applied Matlab**
+- **Introduction to Python**
+- **Python for Data Science**  
+  (Taught in English to international MSc students)
+- **Operational Research**
+- **Probability & Statistics**
 
-**2022**  
-- Algebra and applied Matlab (11h)
-- Introduction to Python (9h)
-- Operational Research (15h)
-- Probability & Statistics (4h)
-- Python for Data Science (21h)  
-_Taught in English to 13 international MSc students_
+## Other Experience
 
-### Personal Teacher, Bretagne, France (2012-2019)
-- Tutored primary to secondary school students (2/week)
+- Supervision of MSc internships and research projects
+- Tutoring in mathematics and computer science
 
 ---
 
 ## Skills
 
+- Programming: Python, R, LaTeX, DBeaver, MongoDB
 - Languages: English (fluent), Spanish (basic)
-- Coding: Python, R, DBeaver, MongoDB, LaTeX
-- Academic research, teaching, training, typesetting, supervision
+- Teaching, academic research, training, supervision

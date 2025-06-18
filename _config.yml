@@ -6,20 +6,7 @@ theme: minima
 author: Gwen Maudet
 email: gwen.maudet@imt-atlantique.fr
 
-# Navigation links
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Experience"
-    url: /experience/
-  - title: "Contact"
-    url: /contact/
-
 markdown: kramdown
-show_excerpts: true
+
+minima:
+  skin: classic
