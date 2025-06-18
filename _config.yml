@@ -1,0 +1,25 @@
+title: "Gwen Maudet"
+description: "Postdoctoral Researcher | University of Luxembourg"
+baseurl: ""
+url: "https://gwenmaudet.github.io"
+theme: minima
+author: Gwen Maudet
+email: gwen.maudet@imt-atlantique.fr
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Experience"
+    url: /experience/
+  - title: "Contact"
+    url: /contact/
+
+markdown: kramdown
+show_excerpts: true
