@@ -6,24 +6,27 @@ permalink: /teaching/
 
 # Teaching
 
-## IMT Atlantique, Rennes, France
+## University of Luxembourg (2024–2025)
 
-- **Algebra and Applied Matlab**
-- **Introduction to Python**
-- **Python for Data Science**  
-  (Taught in English to international MSc students)
-- **Operational Research**
-- **Probability & Statistics**
+- **Project Lead**: Supervised student teams in research projects on lower-bound strategies and cutting plan selection in branch-and-bound algorithms for scheduling and optimization problems.
+- **Lecturer**:  
+  - Taught Master’s students in Information and Computer Sciences (first semester, ~58 students)
+  - Topics: Introduction to Integer Linear Programming, population-based metaheuristics (genetic algorithms, swarm intelligence), TSP optimization with notebooks, and integration of B&B with genetic programming.
+
+## IMT Atlantique, Rennes (2022–2023)
+
+- **Practice Teacher**:  
+  - Supported international master’s program in IT (remote, in English)
+  - Topics: Matlab, Algebra, Python, Data Science, Operational Research, Probability & Statistics, Signal Processing
 
 ## Other Experience
 
-- Supervision of MSc internships and research projects
-- Tutoring in mathematics and computer science
+- **Private Tutor (2012–2019)**: Individual instruction in mathematics and programming, Brittany, France.
 
 ---
 
 ## Skills
 
-- Programming: Python, R, LaTeX, DBeaver, MongoDB
-- Languages: English (fluent), Spanish (basic)
-- Teaching, academic research, training, supervision
+- Academic research, teaching and training, internship supervision
+- Python, R, LaTeX, DBeaver, MongoDB
+- Languages: English (C1), Spanish (A2), Italian (A2)

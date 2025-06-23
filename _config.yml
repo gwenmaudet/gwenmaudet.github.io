@@ -1,10 +1,10 @@
 title: "Gwen Maudet"
-description: "Postdoctoral Researcher | University of Luxembourg"
+description: "Research Associate in Mathematical Optimization, Machine Learning & IoT"
 baseurl: ""
 url: "https://gwenmaudet.github.io"
 theme: minima
 author: Gwen Maudet
-email: gwen.maudet@imt-atlantique.fr
+email: gwen.maudet@laposte.net
 
 markdown: kramdown
 
