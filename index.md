@@ -5,17 +5,20 @@ title: ""
 
 # Gwen Maudet
 
+<img src="gwen.jpg" alt="Portrait of Gwen Maudet" style="max-width:180px;float:right;margin:0 0 2em 2em;border-radius:8px;"/>
+
 I am a postdoctoral researcher at the University of Luxembourg, specializing in the integration of machine learning techniques with combinatorial optimization and large-scale sensor networks. My work focuses on developing interpretable machine learning models for MILP solvers and on energy-efficient strategies for IoT systems.
 
 ---
 
 ## Contact
 
-- **Address:** 8 rue des dahlias, 57390, Russange, France  
+- **Address:** 3a rue du 10ème d’Artillerie, 35000 Rennes, France  
 - **Phone:** +33(0)631430768  
 - **Email:** [gwen.maudet@uni.lu](mailto:gwen.maudet@uni.lu)  
 - [LinkedIn](https://www.linkedin.com/in/gwen-maudet-1a1490171/)  
-- [ORCID](https://orcid.org/0000-0003-0340-2542)
+- [ORCID](https://orcid.org/0000-0003-0340-2542)  
+- [Download my CV (PDF)](cv_gwen_maudet.pdf)
 
 ---
 
