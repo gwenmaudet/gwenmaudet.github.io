@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-# Gwen Maudet
+
 
 <img src="gwen.JPG" alt="Portrait of Gwen Maudet" style="max-width:180px;float:right;margin:0 0 2em 2em;border-radius:8px;"/>
 
@@ -15,7 +15,7 @@ I am a postdoctoral researcher at the University of Luxembourg, specializing in 
 
 ## Contact
 
-- **Address:** 3a rue du 10ème d’Artillerie, 35000 Rennes, France  
+- **Address:** 8 rue des dahlias, 57390, Russange, France  
 - **Phone:** +33(0)631430768  
 - **Email:** [gwen.maudet@uni.lu](mailto:gwen.maudet@uni.lu)  
 - [LinkedIn](https://www.linkedin.com/in/gwen-maudet-1a1490171/)  

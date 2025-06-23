@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-# Teaching
 
 ## University of Luxembourg (2024–2025)
 
@@ -17,4 +16,4 @@ permalink: /teaching/
 
 - **Practice Teacher**:  
   - Supported international master’s program in IT (remote, in English)
-  - Topics: Matlab, Algebra, Python, Data Science, Operational Research, Probability & Statistics, Signal Processing
+  - Topics: Matlab, Algebra, Python, Data Science, Operational Research, Probability & Statistics, Signal Processing.

@@ -4,19 +4,18 @@ title: "Research"
 permalink: /research/
 ---
 
-# Research
 
 ## Current Areas
 
 - **Machine Learning for Mixed Integer Linear Programming (MILP):**
-  - Design of portfolio-solving strategies using genetic programming to generate human-readable and generalizable algorithms.
+  - Design of strategies using genetic programming to generate human-readable and generalizable algorithms.
   - Structural analysis of MILP instances using mathematical distance measures and clustering.
 - **Sensor Networks & IoT:**
   - Similarity-based scheduling and energy-efficient monitoring in large-scale, constrained sensor networks.
 
 ---
 
-## Selected Publications
+## Publications
 
 ### International Journals
 - P. Maillé, **G. Maudet**, M. Simon, B. Tuffin, “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,” *Electronic Commerce Research and Applications*, 2022.  
