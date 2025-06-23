@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://gwenmaudet.github.io"
 theme: minima
 author: Gwen Maudet
-email: gwen.maudet@laposte.net
+email: gwen.maudet@uni.lu
 
 markdown: kramdown
 
