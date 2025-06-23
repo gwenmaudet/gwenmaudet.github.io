@@ -9,6 +9,8 @@ title: ""
 
 I am a postdoctoral researcher at the University of Luxembourg, specializing in the integration of machine learning techniques with combinatorial optimization and large-scale sensor networks. My work focuses on developing interpretable machine learning models for MILP solvers and on energy-efficient strategies for IoT systems.
 
+[Download my CV (PDF)](cv_gwen_maudet.pdf)
+
 ---
 
 ## Contact
@@ -18,7 +20,6 @@ I am a postdoctoral researcher at the University of Luxembourg, specializing in 
 - **Email:** [gwen.maudet@uni.lu](mailto:gwen.maudet@uni.lu)  
 - [LinkedIn](https://www.linkedin.com/in/gwen-maudet-1a1490171/)  
 - [ORCID](https://orcid.org/0000-0003-0340-2542)  
-- [Download my CV (PDF)](cv_gwen_maudet.pdf)
 
 ---
 
