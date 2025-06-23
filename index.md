@@ -14,8 +14,7 @@ I am a postdoctoral researcher at the University of Luxembourg, specializing in 
 ---
 
 ## Contact
-
-- **Address:** 8 rue des dahlias, 57390, Russange, France  
+ 
 - **Phone:** +33(0)631430768  
 - **Email:** [gwen.maudet@uni.lu](mailto:gwen.maudet@uni.lu)  
 - [LinkedIn](https://www.linkedin.com/in/gwen-maudet-1a1490171/)  
