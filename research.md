@@ -36,7 +36,9 @@ permalink: /research/
   [HAL](https://hal.science/hal-04079906?lang=en)
 
 ### Ongoing Work
-- “A Survey On Data Collection Based on Sensors Similarity,” In progress, 2023.
-- “Grouping Sensors Based on Observations in a Massive IoT Deployment,” In progress, 2023.
+- "A Distance Metric for Mixed Integer Programming Instances", Under review.
+- “Grouping Sensors Based on Observations in a Massive IoT Deployment,” Under review.
+- “A Survey On Data Collection Based on Sensors Similarity,” In progress.
+
 
 ---
