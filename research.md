@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Research"
+title: "Research – Gwen Maudet"
+description: "Research areas and publications of Gwen Maudet, including machine learning for MILP, sensor networks, IoT, and optimization algorithms."
 permalink: /research/
 ---
-
 
 ## Current Areas
 
