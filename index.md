@@ -9,7 +9,7 @@ title: ""
 
 I am a postdoctoral researcher at the University of Luxembourg, specializing in the integration of machine learning techniques in mixed integer linear programming solvers. Previously, my PhD research focused on theoretical frameworks for the Massive IoT paradigm.
 
-[Download my CV (PDF)](cv_gwen_maudet.pdf)
+> **Note:** The information on this website provides a concise summary of my background and activities. For more detailed information, please refer to my [extended academic CV (PDF)](cv_gwen_maudet.pdf).
 
 ---
 
