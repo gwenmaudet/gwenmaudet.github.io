@@ -8,32 +8,65 @@ body {
   background: var(--klein-blue-light);
   color: #1a1a1a;
 }
-a, a:visited {
-  color: var(--klein-blue);
+
+.wrapper {
+  max-width: 900px;
+  width: 95%;
+  margin: 0 auto;
+  text-align: left;
 }
-h1, h2, h3, h4, h5, h6,
-.site-title, .site-title a {
-  color: var(--klein-blue);
+
+@media (max-width: 600px) {
+  .wrapper {
+    width: 98%;
+    max-width: 100%;
+  }
 }
+
+/* Hide minima navigation sidebar and tick */
+.nav, .sidebar, .nav-trigger-label, .nav-trigger:checked + .nav-trigger-label {
+  display: none !important;
+}
+
+/* Make navigation links big and clear */
+.site-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  margin-top: 1.5em;
+}
+
+.site-nav .nav-list-link {
+  font-size: 1.25em;
+  font-weight: bold;
+  color: var(--klein-blue, #002fa7);
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.site-nav .nav-list-link.active,
+.site-nav .nav-list-link[aria-current="page"] {
+  background: var(--klein-blue-light, #e8edfb);
+  color: var(--klein-blue, #002fa7);
+  text-decoration: underline;
+}
+
+/* Optional: make images look nice and centered if desired */
+img {
+  display: block;
+  margin: 0 auto 2em auto;
+  border: 1px solid var(--klein-blue-light);
+  border-radius: 8px;
+}
+
 .site-header, .site-footer {
   background: var(--klein-blue-softer);
   color: var(--klein-blue);
   border-bottom: 2px solid var(--klein-blue);
 }
-.wrapper {
-  max-width: 900px;
-  width: 95%;
-}
-img {
-  border: 1px solid var(--klein-blue-light);
-  border-radius: 8px;
-}
-.nav-list-link.active, .nav-list-link[aria-current="page"] {
-  font-weight: bold;
+
+h1, h2, h3, h4, h5, h6,
+.site-title, .site-title a {
   color: var(--klein-blue);
-  text-decoration: underline;
-}
-/* Hide minima navigation sidebar and tick */
-.nav {
-  display: none !important;
 }
