@@ -18,3 +18,5 @@ plugins:
   - jekyll-sitemap
 minima:
   skin: classic
+  custom_css:
+    - assets/css/custom.css
