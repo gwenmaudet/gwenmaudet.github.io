@@ -10,7 +10,7 @@ description: "Homepage of Gwen Maudet, University of Luxembourg. Specializing in
 
 I am a postdoctoral researcher at the University of Luxembourg, specializing in the integration of machine learning techniques in mixed integer linear programming solvers. Previously, my PhD research focused on theoretical frameworks for the Massive IoT paradigm.
 
-> **Note:** The information on this website provides a concise summary of my background and activities. For more detailed information, please refer to my [extended academic CV (PDF)](cv_gwen_maudet.pdf).
+This website offers a brief overview of my academic background, research, and professional activities. For a comprehensive and detailed account, please see my [extended academic CV (PDF)](cv_gwen_maudet.pdf).
 
 ---
 
