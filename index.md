@@ -33,4 +33,4 @@ This website offers a brief overview of my academic background, research, and pr
 
 - [Research](research/)
 - [Teaching](teaching/)
-- [Other](other/)
+- [Other Activities](other/)
