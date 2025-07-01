@@ -3,12 +3,48 @@
   --klein-blue-light: #e8edfb;
 }
 
-/* Masquer l'ancienne navigation minima */
+/* Sticky footer setup */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--klein-blue-light);
+  color: #1a1a1a;
+}
+
+/* Centrer le contenu */
+.wrapper {
+  max-width: 900px;
+  width: 95%;
+  margin: 0 auto;
+  text-align: left;
+  flex: 1 0 auto; /* Permet au contenu de prendre la place restante */
+}
+
+.site-footer {
+  background: #f6f8fe;
+  color: var(--klein-blue);
+  border-top: 2px solid var(--klein-blue);
+  padding: 1em 0;
+  text-align: center;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+
+/* Navigation et autres styles précédents... */
 .nav, .nav-trigger-label, .nav-trigger, .sidebar {
   display: none !important;
 }
 
-/* Nouvelle barre de navigation personnalisée */
 .custom-main-nav {
   margin: 40px auto 30px auto;
   display: flex;
@@ -33,15 +69,6 @@
   text-shadow: 0 2px 8px #002fa722;
 }
 
-/* Centrer le contenu */
-.wrapper {
-  max-width: 900px;
-  width: 95%;
-  margin: 0 auto;
-  text-align: left;
-}
-
-/* Responsive */
 @media (max-width: 600px) {
   .wrapper {
     width: 98%;
@@ -53,16 +80,6 @@
   }
 }
 
-/* Améliorations visuelles */
-body {
-  background: var(--klein-blue-light);
-  color: #1a1a1a;
-}
-.site-header, .site-footer {
-  background: #f6f8fe;
-  color: var(--klein-blue);
-  border-bottom: 2px solid var(--klein-blue);
-}
 h1, h2, h3, h4, h5, h6,
 .site-title, .site-title a {
   color: var(--klein-blue);
