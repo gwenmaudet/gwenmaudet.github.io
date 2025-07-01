@@ -15,10 +15,14 @@ permalink: /other/
   - 2022: Issam Belhorma, kriging for sensor position estimation.
   - 2021: Carlos Delgado, sensor deployment in green walls.
 
+---
+
 ## Reviewing & Committees
 
 - **Shadow PC Chair**: Algotel-Cores 2025. Led shadow reviewing process (reviewer recruitment, methodology, and paper discussions)
 - **Reviewer**: IEEE TNSM, IEEE Sensors Journal, IPDPS Workshop, shadow reviewer for Algotel/Cores.
+
+---
 
 ## Positions in Associations
 
