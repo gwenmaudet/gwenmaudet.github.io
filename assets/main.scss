@@ -1,0 +1,61 @@
+// Very light Klein Blue theme override for minima
+
+// Define Klein Blue (approx: #002fa7)
+$klein-blue: #002fa7;
+$klein-blue-light: #e8edfb; // A very light version
+
+body {
+  background: $klein-blue-light;
+  color: #1a1a1a;
+}
+
+a, a:visited {
+  color: $klein-blue;
+}
+
+.site-header, .site-footer {
+  background: lighten($klein-blue, 65%);
+  color: $klein-blue;
+  border-bottom: 2px solid $klein-blue;
+}
+
+.site-title, .site-title a {
+  color: $klein-blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $klein-blue;
+}
+
+.nav-list-link.active, .nav-list-link:hover {
+  background: lighten($klein-blue, 60%);
+  color: $klein-blue;
+}
+
+code, pre {
+  background: #f4f7fe;
+  color: $klein-blue;
+}
+
+/* Buttons and highlights */
+button, .btn, input[type="submit"] {
+  background: $klein-blue;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+
+hr {
+  border-top: 1px solid $klein-blue;
+}
+
+blockquote {
+  border-left: 4px solid $klein-blue;
+  background: #f6f8fe;
+}
+
+/* Fine-tune image borders if needed */
+img {
+  border: 1px solid $klein-blue-light;
+  border-radius: 8px;
+}
