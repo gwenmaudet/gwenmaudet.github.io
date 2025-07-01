@@ -24,9 +24,10 @@ This website offers a brief overview of my academic background, research, and pr
 
 ## References
 
-- **Dr Grégoire Danoy** — Research Scientist, PCOG, SnT, University of Luxembourg (Postdoc mentor)
-- **Prof. Patrick Maillé** — Professor, IMT Atlantique, France (PhD supervisor)
-- **Prof. Laurent Toutain** — Professor, IMT Atlantique, France (PhD director)
+
+- **[Dr Grégoire Danoy](https://www.uni.lu/fstm-en/people/gregoire-danoy/)** — Research Scientist, PCOG, SnT, University of Luxembourg (Postdoc mentor)
+- **[Prof. Patrick Maillé](https://www.imt-atlantique.fr/fr/personne/patrick-maille)** — Professor, IMT Atlantique, France (PhD supervisor)
+- **[Prof. Laurent Toutain](https://www.imt-atlantique.fr/fr/personne/laurent-toutain)** — Professor, IMT Atlantique, France (PhD director)
 
 ---
 
