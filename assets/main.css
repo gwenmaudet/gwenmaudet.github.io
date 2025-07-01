@@ -64,9 +64,11 @@ body {
 
 .custom-main-nav a.active,
 .custom-main-nav a[aria-current="page"] {
-  background: var(--klein-blue-light, #e8edfb);
-  color: #fff;
-  text-shadow: 0 2px 8px #002fa722;
+  background: #111 !important;   /* fond noir pour la page active */
+  color: #fff !important;        /* texte blanc pour la page active */
+  text-shadow: none;
+  box-shadow: 0 2px 12px #1113;
+  border-radius: 0.3em;
 }
 
 @media (max-width: 600px) {
