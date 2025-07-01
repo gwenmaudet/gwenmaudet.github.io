@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Other Activities – Gwen Maudet"
+title: "Other Activities"
 description: "Supervision, reviewing, and committee roles undertaken by Gwen Maudet. Includes supervision of PhD and interns, reviewer and shadow chair activities, and association roles."
 permalink: /other/
 ---
