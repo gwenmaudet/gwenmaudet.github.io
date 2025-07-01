@@ -12,6 +12,8 @@ permalink: /teaching/
   - Taught Master’s students in Information and Computer Sciences (first semester, ~58 students)
   - Topics: Introduction to Integer Linear Programming, population-based metaheuristics (genetic algorithms, swarm intelligence), TSP optimization with notebooks, and integration of B&B with genetic programming.
 
+---
+
 ## IMT Atlantique, Rennes (2022–2023)
 
 - **Practice Teacher**:  
