@@ -40,6 +40,12 @@ permalink: /research/
 - “Grouping Sensors Based on Observations in a Massive IoT Deployment,” Under review.
 - “A Survey On Data Collection Based on Sensors Similarity,” In progress.
 
+---
+
+## PhD Thesis
+
+- **Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks**  
+  [(PDF)](https://theses.hal.science/tel-04349604/file/2023IMTA0360_Maudet-Gwen.pdf)
 
 ---
 ## Research Projects
