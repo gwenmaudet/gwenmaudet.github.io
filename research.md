@@ -42,3 +42,12 @@ permalink: /research/
 
 
 ---
+## Research Projects
+
+**SMILP: Structuring the Mixed Integer Linear Programming Space** (Under review)  
+*Lead author, University of Luxembourg. PI: Dr. Danoy.*  
+Submitted to the FNR “CORE” project call, to fund a 2-year postdoc and a 4-year PhD.
+
+SMILP aims to improve ML-based MILP solvers by introducing structural similarity metrics and clustering, enabling portfolio-based solving strategies with specialized ML models for instance groups. The project will develop hybrid learning methods and integrate with open-source tools (SCIP solver, MIPLIB instance library).
+
+---
