@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Teaching"
+title: "Teaching – Gwen Maudet"
+description: "Teaching activities and courses led or assisted by Gwen Maudet, postdoctoral researcher."
 permalink: /teaching/
 ---
 
