@@ -6,7 +6,7 @@ description: "Homepage of Gwen Maudet, University of Luxembourg. Specializing in
 
 
 
-<img src="gwen.JPG" alt="Portrait of Gwen Maudet" style="max-width:180px;float:right;margin:0 0 2em 2em;border-radius:8px;"/>
+<img src="gwen.JPG" alt="Portrait of Gwen Maudet" style="max-width:300px;float:right;margin:0 0 2em 2em;border-radius:8px;"/>
 
 I am a postdoctoral researcher at the University of Luxembourg, specializing in the integration of machine learning techniques in mixed integer linear programming solvers. Previously, my PhD research focused on theoretical frameworks for the Massive IoT paradigm.
 
