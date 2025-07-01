@@ -14,8 +14,8 @@ header_pages:
   - teaching.md
   - other.md
 
-plugins:
-  - jekyll-sitemap
-
 minima:
   skin: classic
+  # Add reference to custom CSS
+  custom_css:
+    - assets/css/custom.scss
