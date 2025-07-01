@@ -16,6 +16,3 @@ header_pages:
 
 minima:
   skin: classic
-  # Add reference to custom CSS
-  custom_css:
-    - assets/css/custom.scss
