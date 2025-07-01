@@ -1,5 +1,5 @@
 title: "Gwen Maudet"
-description: "Post doctoral reasearcher"
+description: "Postdoctoral researcher specializing in machine learning and mixed integer linear programming."
 baseurl: ""
 url: "https://gwenmaudet.github.io"
 theme: minima
@@ -8,5 +8,7 @@ email: gwen.maudet@uni.lu
 
 markdown: kramdown
 
+plugins:
+  - jekyll-sitemap
 minima:
   skin: classic
