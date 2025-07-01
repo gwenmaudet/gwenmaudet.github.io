@@ -1,23 +1,24 @@
 :root {
-  --minima-primary-color: #7a3cff;   /* violet principal */
-  --minima-accent-color: #b39ddb;    /* violet clair */
-  --minima-bg-color: #f5f1fa;        /* fond très pâle */
+  --brand-color: #7a3cff;            /* Violet principal */
+  --brand-color-light: #b39ddb;      /* Violet clair */
+  --brand-color-dark: #512da8;       /* Violet foncé */
+  --background-main: #f5f1fa;        /* Fond très pâle */
 }
 
 body {
-  background: var(--minima-bg-color);
+  background: var(--background-main, #f5f1fa);
 }
 
 a, .site-title, .site-title:visited, .site-nav .page-link {
-  color: var(--minima-primary-color);
+  color: var(--brand-color, #7a3cff);
 }
 
 a:hover, .site-title:hover, .site-nav .page-link:hover {
-  color: var(--minima-accent-color);
+  color: var(--brand-color-dark, #512da8);
 }
 
 .site-header, .site-footer {
-  background: var(--minima-primary-color);
+  background: var(--brand-color, #7a3cff);
   color: white;
   border: none;
 }
@@ -27,6 +28,6 @@ a:hover, .site-title:hover, .site-nav .page-link:hover {
 }
 
 .site-footer {
-  background: var(--minima-accent-color);
+  background: var(--brand-color-light, #b39ddb);
   color: #222;
 }
