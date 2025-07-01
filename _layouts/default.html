@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    {%- include head.html -%}
+  </head>
+  <body>
+    <nav class="custom-main-nav">
+      <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+      <a href="/research/" class="{% if page.url contains '/research' %}active{% endif %}">Research</a>
+      <a href="/teaching/" class="{% if page.url contains '/teaching' %}active{% endif %}">Teaching</a>
+      <a href="/other/" class="{% if page.url contains '/other' %}active{% endif %}">Other activities</a>
+    </nav>
+    <div class="wrapper">
+      {{ content }}
+    </div>
+    {%- include footer.html -%}
+  </body>
+</html>
