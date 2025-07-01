@@ -1,6 +1,7 @@
 ---
 layout: home
-title: ""
+title: "Gwen Maudet – Postdoctoral Researcher"
+description: "Homepage of Gwen Maudet, University of Luxembourg. Specializing in machine learning for optimization, Massive IoT, and mixed integer linear programming. Summary profile and contact information."
 ---
 
 
