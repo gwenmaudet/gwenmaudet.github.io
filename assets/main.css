@@ -1,69 +1,39 @@
-/* Very Light Klein Blue Theme for minima */
-
 :root {
   --klein-blue: #002fa7;
   --klein-blue-light: #e8edfb;
   --klein-blue-softer: #f6f8fe;
 }
 
-/* Background and text */
 body {
   background: var(--klein-blue-light);
   color: #1a1a1a;
 }
-
-/* Links */
-a,
-a:visited {
+a, a:visited {
   color: var(--klein-blue);
 }
-
-/* Headers */
 h1, h2, h3, h4, h5, h6,
 .site-title, .site-title a {
   color: var(--klein-blue);
 }
-
-/* Header and footer */
 .site-header, .site-footer {
   background: var(--klein-blue-softer);
   color: var(--klein-blue);
   border-bottom: 2px solid var(--klein-blue);
 }
-
-/* Navigation highlight */
-.nav-list-link.active,
-.nav-list-link:hover {
-  background: var(--klein-blue-softer);
-  color: var(--klein-blue);
+.wrapper {
+  max-width: 900px;
+  width: 95%;
 }
-
-/* Code blocks */
-code, pre {
-  background: var(--klein-blue-softer);
-  color: var(--klein-blue);
-}
-
-/* Buttons */
-button, .btn, input[type="submit"] {
-  background: var(--klein-blue);
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-}
-
-/* Horizontal rule and blockquotes */
-hr {
-  border-top: 1px solid var(--klein-blue);
-}
-
-blockquote {
-  border-left: 4px solid var(--klein-blue);
-  background: var(--klein-blue-softer);
-}
-
-/* Images */
 img {
   border: 1px solid var(--klein-blue-light);
   border-radius: 8px;
+}
+.nav-list-link.active, .nav-list-link[aria-current="page"] {
+  font-weight: bold;
+  color: var(--klein-blue);
+  text-decoration: underline;
+}
+/* Hide minima navigation sidebar and tick */
+.nav {
+  display: none !important;
 }
