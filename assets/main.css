@@ -1,0 +1,33 @@
+:root {
+  --brand-color: #7a3cff;            /* Violet principal */
+  --brand-color-light: #b39ddb;      /* Violet clair */
+  --brand-color-dark: #512da8;       /* Violet foncé */
+  --background-main: #f5f1fa;        /* Fond très pâle */
+}
+
+body {
+  background: var(--background-main, #f5f1fa);
+}
+
+a, .site-title, .site-title:visited, .site-nav .page-link {
+  color: var(--brand-color, #7a3cff);
+}
+
+a:hover, .site-title:hover, .site-nav .page-link:hover {
+  color: var(--brand-color-dark, #512da8);
+}
+
+.site-header, .site-footer {
+  background: var(--brand-color, #7a3cff);
+  color: white;
+  border: none;
+}
+
+.site-nav {
+  background: transparent;
+}
+
+.site-footer {
+  background: var(--brand-color-light, #b39ddb);
+  color: #222;
+}
