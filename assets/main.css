@@ -24,7 +24,7 @@ body {
   width: 95%;
   margin: 0 auto;
   text-align: left;
-  flex: 1 0 auto; /* Permet au contenu de prendre la place restante */
+  flex: 1 0 auto;
 }
 
 .site-footer {
@@ -40,11 +40,12 @@ body {
   left: 0;
 }
 
-/* Navigation et autres styles précédents... */
+/* Hide minima default nav/sidebar */
 .nav, .nav-trigger-label, .nav-trigger, .sidebar {
   display: none !important;
 }
 
+/* NAVIGATION BAR */
 .custom-main-nav {
   margin: 40px auto 30px auto;
   display: flex;
@@ -52,6 +53,7 @@ body {
   gap: 4vw;
 }
 
+/* Default nav link style: blue, no bg */
 .custom-main-nav a {
   font-size: 2.2em;
   font-weight: bold;
@@ -60,17 +62,30 @@ body {
   padding: 0.35em 0.6em;
   border-radius: 0.3em;
   transition: background .2s, color .2s;
+  position: relative;
+  z-index: 1;
 }
 
+/* Page active: non cliquable, noir/blanc */
 .custom-main-nav a.active,
 .custom-main-nav a[aria-current="page"] {
-  background: #111 !important;   /* fond noir pour la page active */
-  color: #fff !important;        /* texte blanc pour la page active */
-  text-shadow: none;
+  background: #111 !important;
+  color: #fff !important;
+  pointer-events: none; /* ne peut pas cliquer */
   box-shadow: 0 2px 12px #1113;
   border-radius: 0.3em;
+  cursor: default;
 }
 
+/* Hover effect ONLY on non-active links */
+.custom-main-nav a:not(.active):not([aria-current="page"]):hover {
+  background: rgba(0,47,167,0.18); /* bleu Klein transparent */
+  color: var(--klein-blue, #002fa7);
+  box-shadow: 0 2px 12px #002fa733;
+  cursor: pointer;
+}
+
+/* Responsive */
 @media (max-width: 600px) {
   .wrapper {
     width: 98%;
