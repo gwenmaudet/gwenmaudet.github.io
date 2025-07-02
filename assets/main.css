@@ -61,7 +61,7 @@ body {
   text-decoration: none;
   padding: 0.35em 0.6em;
   border-radius: 0.3em;
-  transition: background .2s, color .2s;
+  transition: background .2s, color .2s, text-decoration .2s;
   position: relative;
   z-index: 1;
 }
@@ -71,7 +71,7 @@ body {
 .custom-main-nav a[aria-current="page"] {
   background: #111 !important;
   color: #fff !important;
-  pointer-events: none; /* ne peut pas cliquer */
+  pointer-events: none;
   box-shadow: 0 2px 12px #1113;
   border-radius: 0.3em;
   cursor: default;
@@ -79,10 +79,26 @@ body {
 
 /* Hover effect ONLY on non-active links */
 .custom-main-nav a:not(.active):not([aria-current="page"]):hover {
-  background: rgba(0,47,167,0.18); /* bleu Klein transparent */
+  background: rgba(0,47,167,0.18);
   color: var(--klein-blue, #002fa7);
   box-shadow: 0 2px 12px #002fa733;
   cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+/* Style for ALL clickable links in main content */
+.wrapper a:not(.custom-main-nav a) {
+  color: var(--klein-blue, #002fa7);
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+  transition: text-decoration-color .15s, color .15s;
+  text-decoration-color: #b5c8f6;
+}
+.wrapper a:not(.custom-main-nav a):hover {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-color: #002fa7;
 }
 
 /* Responsive */
