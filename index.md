@@ -19,7 +19,9 @@ This website offers a brief overview of my academic background, research, and pr
 - **Phone:** +33(0)631430768  
 - **Email:** [gwen.maudet@uni.lu](mailto:gwen.maudet@uni.lu)
 - [orcid](https://orcid.org/0000-0003-0340-2542)  
-- [LinkedIn](https://www.linkedin.com/in/gwen-maudet-1a1490171/)  
+- [LinkedIn](https://www.linkedin.com/in/gwen-maudet-1a1490171/)
+
+ 
 ---
 
 ## References
