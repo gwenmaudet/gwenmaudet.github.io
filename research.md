@@ -25,7 +25,7 @@ permalink: /research/
 -  **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
 [preprint](https://arxiv.org/abs/2507.11063)
 - **G. Maudet**, G. Danoy, "Search Strategy Generation for Branch and Bound Using Genetic Programming," *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) 
-  [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229/35384)
+  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023. (CORE: B) 
   [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10118910)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization,” *IEEE/IFIP NOMS*, 2022. (CORE: B) 
