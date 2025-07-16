@@ -18,15 +18,17 @@ permalink: /research/
 ## Publications
 
 ### International Journals
-- P. Maillé, **G. Maudet**, M. Simon, B. Tuffin, “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,” *Electronic Commerce Research and Applications*, 2022.  
+- P. Maillé, **G. Maudet**, M. Simon, B. Tuffin, “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,” *Electronic Commerce Research and Applications*, 2022. (SJR: Q1)
   [DOI](https://doi.org/10.1016/j.elerap.2022.101132)
 
 ### International Conferences
-- **G. Maudet**, G. Danoy, "Search Strategy Generation for Branch and Bound Using Genetic Programming," *AAAI Conference on Artificial Intelligence 39*, 2025.  
+-  **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
+[preprint](https://arxiv.org/abs/2507.11063)
+- **G. Maudet**, G. Danoy, "Search Strategy Generation for Branch and Bound Using Genetic Programming," *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) 
   [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229/35384)
-- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023.  
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023. (CORE: B) 
   [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10118910)
-- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization,” *IEEE/IFIP NOMS*, 2022.  
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization,” *IEEE/IFIP NOMS*, 2022. (CORE: B) 
   [IEEE Xplore](https://ieeexplore.ieee.org/document/9789769)
 
 ### National Conferences
@@ -36,7 +38,6 @@ permalink: /research/
   [HAL](https://hal.science/hal-04079906?lang=en)
 
 ### Ongoing Work
-- "A Distance Metric for Mixed Integer Programming Instances", Under review.
 - “Grouping Sensors Based on Observations in a Massive IoT Deployment,” Under review.
 - “A Survey On Data Collection Based on Sensors Similarity,” In progress.
 
