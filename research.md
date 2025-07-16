@@ -38,7 +38,7 @@ permalink: /research/
   [HAL](https://hal.science/hal-04079906?lang=en)
 
 ### Ongoing Work
-- “Grouping Sensors Based on Observations in a Massive IoT Deployment,” preprint [HAL](https://hal.science/hal-04424455v4/document).
+- “Grouping Sensors Based on Observations in a Massive IoT Deployment,” preprint, [HAL](https://hal.science/hal-04424455v4/document).
 - “A Survey On Data Collection Based on Sensors Similarity,” In progress.
 
 ---
@@ -46,7 +46,7 @@ permalink: /research/
 ## PhD Thesis
 
 - **Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks**  
-  [(PDF)](https://theses.hal.science/tel-04349604/file/2023IMTA0360_Maudet-Gwen.pdf)
+  [(PDF)](https://theses.hal.science/tel-04349604/file/2023IMTA0360_Maudet-Gwen.pdf),
   [Youtube Video of the Defence](https://youtu.be/0p3jmufFM1k?si=zH99MpST1HHMHA3K&t=2520)
 
 ---
