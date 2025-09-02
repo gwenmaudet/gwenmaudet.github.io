@@ -10,10 +10,10 @@ permalink: /other/
 - **PhD Supervision**
   - 2023–Present: Alisa Vorokhta, Machine learning for mixed integer linear programming solvers.
 - **Intern Supervision**
-  - 2025: Baka Junior Cedric Ble, clustering the mixed integer linear programming space.
-  - 2025:  Mathis Da Cunha, cutting planes selections in branch and bound.
-  - 2022: Issam Belhorma, kriging for sensor position estimation.
-  - 2021: Carlos Delgado, sensor deployment in green walls.
+  - 2025, 5 months: Baka Junior Cedric Ble, clustering the mixed integer linear programming space.
+  - 2025, 5 months:  Mathis Da Cunha, cutting planes selections in branch and bound.
+  - 2022, 5 months: Issam Belhorma, kriging for sensor position estimation.
+  - 2021, 3 months: Carlos Delgado, sensor deployment in green walls.
 
 ---
 
