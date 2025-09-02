@@ -38,6 +38,9 @@ permalink: /research/
   [HAL](https://hal.science/hal-04079906?lang=en)
 
 ### Ongoing Work
+- "Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming", In progress.
+- "Distance Based clustering of the Mixed-Integer Programming Space for Portfolio-Based Machine Learning Generalization", *in collaboration with Baka Junior Cedric Ble*, In Progress.
+- "Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming and Reinforcement Learning", *in collaboration with Mathis Da Cunha*, In progress.
 - “Grouping Sensors Based on Observations in a Massive IoT Deployment,” preprint, [HAL](https://hal.science/hal-04424455v4/document).
 - “A Survey On Data Collection Based on Sensors Similarity,” In progress.
 
@@ -50,7 +53,7 @@ permalink: /research/
   [Youtube Video of the Defence](https://youtu.be/0p3jmufFM1k?si=zH99MpST1HHMHA3K&t=2520)
 
 ---
-## Research Projects
+## Research Projects Submissions
 
 **SMILP: Structuring the Mixed Integer Linear Programming Space** (Under review)  
 *Lead author, University of Luxembourg. PI: Dr. Danoy.*  
