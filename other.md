@@ -26,6 +26,6 @@ permalink: /other/
 
 ## Positions in Associations
 
-- **2022–2023**: President, Association of PhD Students and Young Researchers, IMT Atlantique Rennes
-- **2023**: PhD students’ representative, Doctoral School "SPIN"
+- **President of the association of PhD students and young researchers**: one-year term 2022–2023, IMT Atlantique Rennes.
+- **PhD students’ representative at doctoral school "SPIN"**: 2023, IMT Atlantique Rennes.
 
