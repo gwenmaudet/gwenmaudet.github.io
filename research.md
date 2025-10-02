@@ -8,10 +8,10 @@ permalink: /research/
 ## Current Areas
 
 - **Machine Learning for Mixed Integer Linear Programming (MILP):**
-  - Design of strategies using genetic programming to generate human-readable and generalizable algorithms.
-  - Structural analysis of MILP instances using mathematical distance measures and clustering.
+  - Designing human-readable Machine Learning strategies to speed up MILP solvers.
+  - Study of the structure between MILP instances to guide the solving.
 - **Sensor Networks & IoT:**
-  - Similarity-based scheduling and energy-efficient monitoring in large-scale, constrained sensor networks.
+  - Scheduling and energy-efficient monitoring in large-scale, constrained sensor networks.
 
 ---
 
@@ -23,25 +23,28 @@ permalink: /research/
 
 ### International Conferences
 -  **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
-[preprint](https://arxiv.org/abs/2507.11063)
+[Arxiv link](https://arxiv.org/abs/2507.11063)
 - **G. Maudet**, G. Danoy, "Search Strategy Generation for Branch and Bound Using Genetic Programming," *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) 
-  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
+  [AAAI link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023. (CORE: B) 
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10118910)
+  [IEEE link](https://ieeexplore.ieee.org/abstract/document/10118910)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization,” *IEEE/IFIP NOMS*, 2022. (CORE: B) 
-  [IEEE Xplore](https://ieeexplore.ieee.org/document/9789769)
+  [IEEE link](https://ieeexplore.ieee.org/document/9789769)
 
 ### National Conferences
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouper les Capteurs Similaires Grâce à leurs Données dans le Contexte de Massive IoT,” *ALGOTEL*, May 2024.  
-  [HAL](https://hal-bioemco.ccsd.cnrs.fr/DEMO-ENSMSE/hal-04549902v1)
+  [HAL link](https://hal-bioemco.ccsd.cnrs.fr/DEMO-ENSMSE/hal-04549902v1)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Réduction de la Redondance de Messages des Capteurs dans un Contexte Massive IoT,” *ALGOTEL*, May 2023.  
-  [HAL](https://hal.science/hal-04079906?lang=en)
+  [HAL link](https://hal.science/hal-04079906?lang=en)
 
+
+### Preprint
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouping Sensors Based on Observations in a Massive IoT Deployment,” [HAL link](https://hal.science/hal-04424455v4/document).
+- 
 ### Ongoing Work
 - "Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming", In progress.
 - "Distance Based clustering of the Mixed-Integer Programming Space for Portfolio-Based Machine Learning Generalization", *in collaboration with Baka Junior Cedric Ble*, In Progress.
 - "Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming and Reinforcement Learning", *in collaboration with Mathis Da Cunha*, In progress.
-- “Grouping Sensors Based on Observations in a Massive IoT Deployment,” preprint, [HAL](https://hal.science/hal-04424455v4/document).
 - “A Survey On Data Collection Based on Sensors Similarity,” In progress.
 
 ---
@@ -49,7 +52,7 @@ permalink: /research/
 ## PhD Thesis
 
 - **Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks**  
-  [(PDF)](https://theses.hal.science/tel-04349604/file/2023IMTA0360_Maudet-Gwen.pdf),
+  [HAL link](https://theses.hal.science/tel-04349604/file/2023IMTA0360_Maudet-Gwen.pdf),
   [Youtube Video of the Defence](https://youtu.be/0p3jmufFM1k?si=zH99MpST1HHMHA3K&t=2520)
 
 ---
@@ -57,6 +60,6 @@ permalink: /research/
 
 **SMILP: Structuring the Mixed Integer Linear Programming Space** (Under review)  
 *Lead author, University of Luxembourg. PI: Dr. Danoy.*  
-Submitted to the FNR “CORE” project call, to fund a 2-year postdoc and a 4-year PhD.
+Submitted to the [FNR CORE](https://www.fnr.lu/funding-instruments/core/) research program call, to fund a 2-year postdoc and a 4-year PhD student.
 
-SMILP aims to improve ML-based MILP solvers by introducing structural similarity metrics and clustering, enabling portfolio-based solving strategies with specialized ML models for instance groups. The project will develop hybrid learning methods and integrate with open-source tools (SCIP solver, MIPLIB instance library).
+SMILP aims to improve ML-based MILP solvers by introducing structural similarity metrics and clustering, enabling portfolio-based solving strategies with specialized ML models for instance groups. The project will develop hybrid learning methods and integrate with open-source tools ([SCIP solver](https://www.scipopt.org/), [MIPLIB instance library](https://miplib.zib.de/)).
