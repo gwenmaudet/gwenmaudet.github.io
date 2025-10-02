@@ -19,7 +19,7 @@ permalink: /research/
 
 ### International Journals
 - P. Maillé, **G. Maudet**, M. Simon, B. Tuffin, “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,” *Electronic Commerce Research and Applications*, 2022. (SJR: Q1)
-  [DOI](https://doi.org/10.1016/j.elerap.2022.101132)
+  [DOI link](https://doi.org/10.1016/j.elerap.2022.101132)
 
 ### International Conferences
 -  **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
@@ -33,12 +33,12 @@ permalink: /research/
 
 ### National Conferences
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouper les Capteurs Similaires Grâce à leurs Données dans le Contexte de Massive IoT,” *ALGOTEL*, May 2024.  
-  [HAL link](https://hal-bioemco.ccsd.cnrs.fr/DEMO-ENSMSE/hal-04549902v1)
+  [HAL link](https://hal.science/hal-04549902v1)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Réduction de la Redondance de Messages des Capteurs dans un Contexte Massive IoT,” *ALGOTEL*, May 2023.  
-  [HAL link](https://hal.science/hal-04079906?lang=en)
+  [HAL link](https://hal.science/hal-04079906)
 
 ### Preprint
-- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouping Sensors Based on Observations in a Massive IoT Deployment,” [HAL link](https://hal.science/hal-04424455v4/document).
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouping Sensors Based on Observations in a Massive IoT Deployment,” [HAL link](https://hal.science/hal-04424455v4).
   
 ### Ongoing Work
 - "Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming", In progress.
@@ -51,7 +51,7 @@ permalink: /research/
 ## PhD Thesis
 
 - **Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks**  
-  [HAL link](https://theses.hal.science/tel-04349604/file/2023IMTA0360_Maudet-Gwen.pdf),
+  [HAL link](https://hal.science/tel-04349604v1),
   [Youtube Video of the Defence](https://youtu.be/0p3jmufFM1k?si=zH99MpST1HHMHA3K&t=2520)
 
 ---
