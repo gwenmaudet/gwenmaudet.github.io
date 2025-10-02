@@ -37,10 +37,9 @@ permalink: /research/
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Réduction de la Redondance de Messages des Capteurs dans un Contexte Massive IoT,” *ALGOTEL*, May 2023.  
   [HAL link](https://hal.science/hal-04079906?lang=en)
 
-
 ### Preprint
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouping Sensors Based on Observations in a Massive IoT Deployment,” [HAL link](https://hal.science/hal-04424455v4/document).
-- 
+  
 ### Ongoing Work
 - "Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming", In progress.
 - "Distance Based clustering of the Mixed-Integer Programming Space for Portfolio-Based Machine Learning Generalization", *in collaboration with Baka Junior Cedric Ble*, In Progress.
