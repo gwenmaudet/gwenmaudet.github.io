@@ -8,10 +8,10 @@ permalink: /teaching/
 
 ## University of Luxembourg (2024–2025)
 
-- **Project Lead**: Supervised teams of 3 students on research projects.
+- **Project Lead**: Supervised teams of 3 students on research projects. 4 hours lots of group work per week during one semester.
   - Topics: *lower-bound strategies in Branch and Bound* (2024) and *cutting plan selection in Branch and Bound* (2025).
-- **Lecturer**: Taught Master’s students in Information and Computer Sciences. 2025: 4 slots of 2 hours, 58 students.
-  - Topics: Introduction to Integer Linear Programming, population-based metaheuristics (evolutionary algorithms, swarm intelligence), TSP notebook exercice, and presentation of actual research combining B&B with genetic programming.
+- **Lecturer**: Taught Master’s students in Information and Computer Sciences. winter 2024: 4 slots of 1.5 hours, 58 students; winter 2025: 6 slots of 1.5 hours, 62 students.
+  - Topics: Introduction to Integer Linear Programming and development on the branching and searching strategies, population-based metaheuristics (evolutionary algorithms, swarm intelligence), TSP notebook exercices, and presentation of actual research combining branch and bound with genetic programming.
 
 ---
 
