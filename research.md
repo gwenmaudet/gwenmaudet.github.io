@@ -23,7 +23,7 @@ permalink: /research/
 
 ### International Conferences
 -  **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
-[Arxiv link](https://arxiv.org/abs/2507.11063)
+[ECAI link](https://ebooks.iospress.nl/doi/10.3233/FAIA250894)
 - **G. Maudet**, G. Danoy, "Search Strategy Generation for Branch and Bound Using Genetic Programming," *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) 
   [AAAI link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023. (CORE: B) 
