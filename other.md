@@ -15,8 +15,8 @@ permalink: /other/
   - 2022, 5 months: Issam Belhorma, kriging for sensor position estimation.
   - 2021, 3 months: Carlos Delgado, sensor deployment in green walls.
 - **Student Job Supervision**
-  - 2025, 3 months, 5 h/week:  Diptaraj SEN,  evaluating benchmark of instances with distance between instances.
-  - 2024, 5 months, 5 h/week: Daniele Ferrario, understanding a reinforcement lerning framework for cutting plans.
+  - 2025, 3 months, 5 h per week:  Diptaraj SEN,  evaluating benchmark of instances with distance between instances.
+  - 2024, 5 months, 5 h per week: Daniele Ferrario, understanding a reinforcement lerning framework for cutting plans.
 
 
 ---
