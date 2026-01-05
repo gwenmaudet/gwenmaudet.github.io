@@ -34,5 +34,6 @@ permalink: /other/
 - **PhD students’ representative at doctoral school "SPIN"**: 2023, IMT Atlantique Rennes.
 
 ## Hobbies
-- Gardening (have seeds to echange)
-- sport: judo black belt, runner and cycler, indoor-outdoor boulderer and rope climber
+- Gardening (seeds to exchange)
+- sport: indoor/outdoor boulderer and rope climber, judo black belt, trail runner and cyclo tourist.
+- Music: post-punk, rap and french variety
