@@ -32,7 +32,7 @@ permalink: /research/
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization,” *IEEE/IFIP NOMS*, 2022. (CORE: B) 
   [Link](https://ieeexplore.ieee.org/document/9789769)
 
-### Extended Abstract and National Conferences
+### Extended Abstracts and National Conferences
 - M. Da cunha  **G. Maudet**, G. Danoy, "Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming", Extended Abstract, *Conference on Optimisation and Learning*, 2026.
 - B.Blé, **G. Maudet**, G. Danoy, "Distance-based Portfolio Learning For Mixed-integer Programming", Extended Abstract, *Conference on Optimisation and Learning*, 2026.
 - **G. Maudet**, G. Danoy,"Une Distance pour les Instances de Programmation Linéaire en Nombres Entiers Mixtes", ROADEF, February 2026.
