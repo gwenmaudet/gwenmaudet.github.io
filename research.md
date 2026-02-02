@@ -22,6 +22,8 @@ permalink: /research/
   [Link](https://doi.org/10.1016/j.elerap.2022.101132)
 
 ### International Conferences
+- M. Da cunha  **G. Maudet**, G. Danoy, "Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming", Extended Abstract, *Conference on Optimisation and Learning*, 2026.
+- B.Blé, **G. Maudet**, G. Danoy, "Distance-based Portfolio Learning For Mixed-integer Programming", Extended Abstract, *Conference on Optimisation and Learning*, 2026.
 - A. Vorokhta, **G. Maudet**, G. Danoy, "Selecting the Best Lower-Bound Strategy in a Branch-and-Bound Algorithm Using Genetic Programming",*International Workshop on Big Optimization*, 2026. [Link](https://link.springer.com/chapter/10.1007/978-3-032-15455-2_4)
 - **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
 [Link](https://ebooks.iospress.nl/doi/10.3233/FAIA250894)
@@ -33,6 +35,8 @@ permalink: /research/
   [Link](https://ieeexplore.ieee.org/document/9789769)
 
 ### National Conferences
+- **G. Maudet**, G. Danoy,"Une Distance pour les Instances de Programmation Linéaire en Nombres Entiers Mixtes", ROADEF, February 2026.
+- **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", ORBEL, February 2026.
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouper les Capteurs Similaires Grâce à leurs Données dans le Contexte de Massive IoT,” *ALGOTEL*, May 2024.  
   [Link](https://hal.science/hal-04549902v1)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Réduction de la Redondance de Messages des Capteurs dans un Contexte Massive IoT,” *ALGOTEL*, May 2023.  
