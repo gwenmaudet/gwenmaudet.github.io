@@ -27,6 +27,7 @@ permalink: /research/
 - A. Vorokhta, **G. Maudet**, G. Danoy, "Selecting the Best Lower-Bound Strategy in a Branch-and-Bound Algorithm Using Genetic Programming",*International Workshop on Big Optimization*, 2026. [Link](https://link.springer.com/chapter/10.1007/978-3-032-15455-2_4)
 - **G. Maudet**, G. Danoy,"A Distance Metric for Mixed Integer Programming Instances", *European Conference on Artificial Intelligence*, 2025. (CORE: A) 
 [Link](https://ebooks.iospress.nl/doi/10.3233/FAIA250894)
+- A. Vorokhta, **G. Maudet**, G. Danoy, "Generating LB Computation Strategies in a B&B Algorithm: Application to the PFSP", Extended Abstract, *Conference on Optimisation and Learning*, 2025.
 - **G. Maudet**, G. Danoy, "Search Strategy Generation for Branch and Bound Using Genetic Programming," *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) 
   [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
 - **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023. (CORE: B) 
