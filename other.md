@@ -12,7 +12,7 @@ permalink: /other/
 - **Intern Supervision**
   - 2025, 5 months: Baka Junior Cedric Ble, clustering the mixed integer linear programming space.
   - 2025, 5 months:  Mathis Da Cunha, cutting planes selections in branch and bound.
-  - 2022, 5 months: Issam Belhorma, kriging for sensor position estimation.
+  - 2022, 5 months: Issam Belhorma, kriging techniques for sensor position estimation.
   - 2021, 3 months: Carlos Delgado, sensor deployment in green walls.
 - **Student Job Supervision**
   - 2025, 3 months, 5 h per week:  Diptaraj SEN,  evaluating benchmark of instances with distance between instances.
