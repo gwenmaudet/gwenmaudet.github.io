@@ -29,11 +29,10 @@ permalink: /other/
 ---
 
 ## Positions in Associations
-
 - **President of the association of PhD students and young researchers**: one-year term 2022–2023, IMT Atlantique Rennes.
 - **PhD students’ representative at doctoral school "SPIN"**: 2023, IMT Atlantique Rennes.
 
 ## Hobbies
-- Gardening (seeds to exchange)
-- sport: indoor/outdoor boulderer and rope climber, judo black belt, trail runner and cyclo tourist.
-- Music: post-punk, rap and french variety
+- Gardening: from seed to fruit, permaculture (seeds to give/eschange).
+- Sport: indoor/outdoor boulderer and rope climber, black belt judoka, trail runner and cyclo tourist.
+- Music: post-punk, rap, indie rock and french variety.
