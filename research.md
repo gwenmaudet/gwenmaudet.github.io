@@ -48,7 +48,7 @@ permalink: /research/
 ### Ongoing Work
 - "Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming", In progress.
 - "Distance Based clustering of the Mixed-Integer Programming Space for Portfolio-Based Machine Learning Generalization", *in collaboration with Baka Junior Cedric Ble*, In Progress.
-- "Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming and Reinforcement Learning", *in collaboration with Mathis Da Cunha*, In progress.
+- "Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming", *in collaboration with Mathis Da Cunha*, Under review.
 - “A Survey On Data Collection Based on Sensors Similarity,” In progress.
 
 ---
