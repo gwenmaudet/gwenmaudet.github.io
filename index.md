@@ -10,7 +10,7 @@ description: "Homepage of Gwen Maudet, University of Luxembourg, SnT, PCOG. Spec
 
 I am a postdoctoral researcher at the University of Luxembourg, SNT, [PCOG team](https://www.uni.lu/snt-en/research-groups/pcog/), specializing in the integration of machine learning techniques in mixed integer linear programming solvers. Previously, I did my PhD in IMT Atlantique Rennes (France), [SRCD department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/srcd) where my research focused on theoretical frameworks for the Massive IoT paradigm.
 
-This website offers a brief overview of my academic background, research, and professional activities. For a comprehensive and detailed account, please see my [extended academic CV (PDF)](cv_gwen_maudet.pdf).
+This website offers a brief overview of my research and teaching activities. For a comprehensive and detailed presentation, please see my [extended academic CV (PDF)](cv_gwen_maudet.pdf).
 
 ---
 
