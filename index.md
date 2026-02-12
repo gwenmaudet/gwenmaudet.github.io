@@ -27,9 +27,9 @@ This website offers a brief overview of my research and teaching activities. For
 ## References
 
 
-- **[Dr Grégoire Danoy](https://www.uni.lu/fstm-en/people/gregoire-danoy/)** — Research Scientist, PCOG, SnT, University of Luxembourg (Postdoc mentor)
-- **[Prof. Patrick Maillé](https://www.imt-atlantique.fr/fr/personne/patrick-maille)** — Professor, SRCD, IRISA, IMT Atlantique, France (PhD supervisor)
-- **[Prof. Laurent Toutain](https://www.imt-atlantique.fr/fr/personne/laurent-toutain)** — Professor, SRCD, IRISA, IMT Atlantique, France (PhD director)
+- **[Prof. Grégoire Danoy](https://www.uni.lu/fstm-en/people/gregoire-danoy/)** — Assistant Professor, PCOG, SnT, University of Luxembourg (Postdoc mentor)
+- **[Prof. Patrick Maillé](https://www.imt-atlantique.fr/fr/personne/patrick-maille)** — Full Professor, SRCD, IRISA, IMT Atlantique, France (PhD supervisor)
+- **[Prof. Laurent Toutain](https://www.imt-atlantique.fr/fr/personne/laurent-toutain)** — Full Professor, SRCD, IRISA, IMT Atlantique, France (PhD director)
 
 ---
 
