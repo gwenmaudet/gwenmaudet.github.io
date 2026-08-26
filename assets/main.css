@@ -1,10 +1,9 @@
 /* =========================================================
    Gwen Maudet — Personal Academic Website
    ========================================================= */
-
 :root {
-  --accent: #174ea6;
-  --accent-light: #eaf0fb;
+  --accent: #3568a8;
+  --accent-light: #eef3f9;
   --text: #202124;
   --muted: #6b7280;
   --border: #e2e5e9;
@@ -98,10 +97,11 @@ strong {
 a {
   color: var(--accent);
   text-decoration: none;
+  transition: color 0.15s ease;
 }
 
 .wrapper a:not(.custom-main-nav a):hover {
-  color: #000;
+  color: var(--text);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
@@ -206,23 +206,22 @@ a {
   line-height: 1.65;
 }
 
-.social-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.9rem 1.4rem;
+.social-links a {
+  color: var(--accent);
+  text-decoration: none;
+}
 
-  margin: 0;
-  font-size: 0.92rem;
+.social-links a:hover {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .social-links a {
   color: var(--text);
 }
 
-.social-links a:hover {
-  color: var(--accent);
-  text-decoration: none;
-}
+
 
 
 /* =========================================================
