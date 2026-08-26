@@ -5,8 +5,6 @@ description: "Teaching activities and courses led or assisted by Gwen Maudet, po
 permalink: /teaching/
 ---
 
-## Teaching
-
 My teaching spans **mathematical foundations, theoretical computer science,
 optimization, and computational methods**, with an emphasis on connecting
 theory with practical problem solving.
@@ -48,7 +46,6 @@ theory with practical problem solving.
 </div>
 
 
----
 
 ## University of Luxembourg · 2024–2025
 
