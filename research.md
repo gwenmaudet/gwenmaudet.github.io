@@ -59,10 +59,8 @@ permalink: /research/
 
 ### International Journals
 
-- P. Maillé, **G. Maudet**, M. Simon, B. Tuffin,  
-  “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,”  
-  *Electronic Commerce Research and Applications*, 2022. (SJR: Q1)  
-  [DOI](https://doi.org/10.1016/j.elerap.2022.101132)
+- P. Maillé, **G. Maudet**, M. Simon, B. Tuffin, “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,”  
+  *Electronic Commerce Research and Applications*, 2022. (SJR: Q1) [Link](https://doi.org/10.1016/j.elerap.2022.101132)
 
 
 ### International Conferences
