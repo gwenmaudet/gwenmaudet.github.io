@@ -1,4 +1,3 @@
-
 ---
 layout: home
 title: "Home"
@@ -19,10 +18,10 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
     </p>
 
     <p class="intro-bio">
-      I work on the integration of machine learning techniques into
-      mathematical optimization and exact solvers. I am particularly
-      interested in mixed-integer programming, algorithm design, and
-      optimization for engineering applications.
+      I'm a postdoctoral researcher in mathematical optimization, with
+      interests in solver improvement, sometimes in heterogeneous contexts,
+      and a particular emphasis on formulations of real-world networking
+      and industrial problems.
     </p>
 
     <p class="social-links">
@@ -54,6 +53,7 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
     <ul class="interest-list">
       <li>Mixed-Integer Programming</li>
       <li>Machine Learning for Solvers</li>
+      <li>Generalizability of Machine Learning for Optimization</li>
       <li>Optimization in Engineering</li>
       <li>Algorithm Design</li>
       <li>Mesh and Star Network Topologies</li>
@@ -189,19 +189,16 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
 <div class="home-navigation">
 
   <a href="research/" class="navigation-card">
-    <span class="card-label">01</span>
     <strong>Research</strong>
     <span>Projects, publications and research topics →</span>
   </a>
 
   <a href="teaching/" class="navigation-card">
-    <span class="card-label">02</span>
     <strong>Teaching</strong>
     <span>Courses, lectures and student supervision →</span>
   </a>
 
   <a href="other/" class="navigation-card">
-    <span class="card-label">03</span>
     <strong>Other activities</strong>
     <span>Service, reviewing and other activities →</span>
   </a>
