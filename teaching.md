@@ -45,7 +45,7 @@ theory with practical problem solving.
 
 </div>
 
-
+--
 
 ## University of Luxembourg · 2024–2025
 
@@ -73,6 +73,7 @@ Topics and resources:
 - **Travelling Salesman Problem** — [Exercises](/teaching/2025-TSP_exercice.ipynb) · [Correction](/teaching/2025-TSP_correction.ipynb)
 - **Current research** — presentation of ongoing work on machine learning for optimization
 
+--
 
 ## IMT Atlantique · Rennes · 2022–2023
 
