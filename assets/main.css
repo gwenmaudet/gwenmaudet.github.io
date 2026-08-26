@@ -1,142 +1,784 @@
+```css
+/* =========================================================
+   Gwen Maudet — Personal Academic Website
+   ========================================================= */
+
 :root {
-  --klein-blue: #002fa7;
-  --klein-blue-light: #e8edfb;
+  --accent: #174ea6;
+  --accent-light: #eaf0fb;
+  --text: #202124;
+  --muted: #6b7280;
+  --border: #e2e5e9;
+  --background: #ffffff;
+  --max-width: 1050px;
 }
 
-/* Police IBM Plex Sans pour tout le site */
-body, .wrapper, .site-footer, .custom-main-nav, .footer-content {
-  font-family: 'IBM Plex Sans', Arial, sans-serif;
-}
 
-/* Sticky footer setup */
-html, body {
-  height: 100%;
+/* =========================================================
+   Base
+   ========================================================= */
+
+html,
+body {
   margin: 0;
   padding: 0;
+  min-height: 100%;
 }
 
 body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: var(--klein-blue-light);
-  color: #1a1a1a;
+
+  background: var(--background);
+  color: var(--text);
+
+  font-family: "IBM Plex Sans", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  font-weight: 400;
 }
 
-/* Centrer le contenu */
 .wrapper {
-  max-width: 900px;
-  width: 95%;
+  width: min(92%, var(--max-width));
+  max-width: var(--max-width);
   margin: 0 auto;
+
   text-align: left;
   flex: 1 0 auto;
 }
 
-/* Footer (bandeau blanc centré) */
-.site-footer {
-  background: #fff;
-  color: var(--klein-blue);
-  border-top: 2px solid var(--klein-blue);
-  padding: 1em 0;
-  text-align: center;
-  flex-shrink: 0;
-  width: 100%;
-  position: relative;
-  bottom: 0;
-  left: 0;
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "IBM Plex Sans", Arial, sans-serif;
+  color: var(--text);
+  line-height: 1.2;
+  font-weight: 600;
 }
+
+h1 {
+  margin: 0 0 0.2rem 0;
+  font-size: clamp(2.1rem, 5vw, 3.2rem);
+  letter-spacing: -0.04em;
+}
+
+h2 {
+  margin: 0 0 1.2rem 0;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.12rem;
+}
+
+p {
+  margin-top: 0;
+}
+
+strong {
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   Links
+   ========================================================= */
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.wrapper a:not(.custom-main-nav a):hover {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+
+/* =========================================================
+   Hide Minima default navigation/sidebar
+   ========================================================= */
+
+.nav,
+.nav-trigger-label,
+.nav-trigger,
+.sidebar {
+  display: none !important;
+}
+
+
+/* =========================================================
+   Main navigation
+   ========================================================= */
+
+.custom-main-nav {
+  width: 100%;
+  max-width: var(--max-width);
+
+  margin: 0 auto;
+  padding: 1.5rem 0 1.25rem 0;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1.8rem;
+
+  border-bottom: 1px solid var(--border);
+
+  font-family: "IBM Plex Sans", Arial, sans-serif;
+}
+
+.custom-main-nav a {
+  padding: 0;
+  border-radius: 0;
+
+  font-size: 0.95rem;
+  font-weight: 500;
+
+  color: var(--muted);
+  text-decoration: none;
+
+  transition:
+    color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.custom-main-nav a:hover {
+  color: var(--text);
+  background: transparent;
+  box-shadow: none;
+  text-decoration: none;
+}
+
+.custom-main-nav a.active,
+.custom-main-nav a[aria-current="page"] {
+  color: var(--text) !important;
+  background: transparent !important;
+
+  box-shadow: none;
+  border-radius: 0;
+
+  pointer-events: none;
+  position: relative;
+}
+
+.custom-main-nav a.active::after,
+.custom-main-nav a[aria-current="page"]::after {
+  content: "";
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.45rem;
+
+  height: 2px;
+  background: var(--accent);
+}
+
+
+/* =========================================================
+   Homepage — introduction
+   ========================================================= */
+
+.home-intro {
+  display: flex;
+  align-items: center;
+
+  gap: 2.5rem;
+
+  padding: 4rem 0 3rem 0;
+}
+
+.profile-photo {
+  flex: 0 0 auto;
+
+  width: 155px;
+  height: 155px;
+
+  object-fit: cover;
+
+  margin: 0 !important;
+  padding: 0;
+
+  border: none !important;
+  border-radius: 50%;
+
+  display: block;
+}
+
+.intro-text {
+  flex: 1;
+}
+
+.position {
+  margin: 0.25rem 0 1.2rem 0;
+
+  color: var(--muted);
+
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.intro-bio {
+  max-width: 760px;
+
+  margin: 0 0 1.2rem 0;
+
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem 1.4rem;
+
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+.social-links a {
+  color: var(--text);
+}
+
+.social-links a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   TL;DR
+   ========================================================= */
+
+.tldr {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+
+  gap: 2rem;
+
+  margin: 0 0 3.5rem 0;
+  padding: 1.5rem 0;
+
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.section-label {
+  padding-top: 0.15rem;
+
+  color: var(--accent);
+
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.tldr p {
+  max-width: 820px;
+
+  margin: 0;
+
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+
+/* =========================================================
+   Interests + Education
+   ========================================================= */
+
+.home-columns {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+
+  gap: 5rem;
+
+  margin: 0 0 4.5rem 0;
+}
+
+.home-columns section {
+  min-width: 0;
+}
+
+.home-columns h2 {
+  padding-bottom: 0.8rem;
+
+  border-bottom: 2px solid var(--text);
+}
+
+
+/* Interests */
+
+.interest-list {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.interest-list li {
+  position: relative;
+
+  margin: 0 0 0.65rem 0;
+  padding-left: 1.1rem;
+}
+
+.interest-list li::before {
+  content: "—";
+
+  position: absolute;
+  left: 0;
+
+  color: var(--accent);
+}
+
+
+/* =========================================================
+   Education timeline
+   ========================================================= */
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+
+  gap: 1.1rem;
+
+  padding: 0.15rem 0 1.25rem 0;
+}
+
+.timeline-date {
+  color: var(--muted);
+
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.timeline-item strong {
+  display: block;
+
+  margin-bottom: 0.15rem;
+
+  font-size: 1rem;
+}
+
+.timeline-item p {
+  margin: 0;
+
+  color: var(--muted);
+
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   Experience
+   ========================================================= */
+
+.experience-section {
+  margin: 0 0 4.5rem 0;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+
+  margin-bottom: 1.5rem;
+
+  padding-bottom: 0.8rem;
+
+  border-bottom: 2px solid var(--text);
+}
+
+.section-heading h2 {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.section-heading > a {
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.section-heading > a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+
+.experience-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.experience-item {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+
+  gap: 2rem;
+
+  padding: 1.5rem 0;
+
+  border-bottom: 1px solid var(--border);
+}
+
+.experience-item:first-child {
+  padding-top: 0;
+}
+
+.experience-date {
+  color: var(--muted);
+
+  font-size: 0.88rem;
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+}
+
+.experience-content h3 {
+  margin-bottom: 0.15rem;
+}
+
+.experience-place {
+  margin: 0 0 0.7rem 0;
+
+  color: var(--muted);
+
+  font-size: 0.93rem;
+}
+
+.experience-content p {
+  max-width: 750px;
+
+  margin-bottom: 0.7rem;
+
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.experience-content p:last-child {
+  margin-bottom: 0;
+}
+
+.experience-extra {
+  color: var(--muted);
+}
+
+
+/* Highlight current position slightly */
+
+.experience-item.current h3::before {
+  content: "";
+
+  display: inline-block;
+
+  width: 7px;
+  height: 7px;
+
+  margin-right: 0.55rem;
+
+  margin-bottom: 2px;
+
+  border-radius: 50%;
+
+  background: var(--accent);
+}
+
+
+/* =========================================================
+   Homepage navigation cards
+   ========================================================= */
+
+.home-navigation {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 1.5rem;
+
+  margin: 0 0 5rem 0;
+
+  border-top: 1px solid var(--border);
+}
+
+.navigation-card {
+  display: flex;
+  flex-direction: column;
+
+  min-height: 120px;
+
+  padding: 1.5rem 0;
+
+  color: var(--text);
+
+  border-bottom: 1px solid var(--border);
+
+  transition:
+    color 0.15s ease,
+    transform 0.15s ease;
+}
+
+.navigation-card:hover {
+  color: var(--accent);
+
+  text-decoration: none;
+
+  transform: translateY(-2px);
+}
+
+.navigation-card .card-label {
+  margin-bottom: 0.8rem;
+
+  color: var(--muted);
+
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+}
+
+.navigation-card strong {
+  margin-bottom: 0.3rem;
+
+  font-size: 1.05rem;
+}
+
+.navigation-card span:last-child {
+  color: var(--muted);
+
+  font-size: 0.87rem;
+  line-height: 1.45;
+}
+
+.navigation-card:hover span:last-child {
+  color: var(--text);
+}
+
+
+/* =========================================================
+   General images
+   ========================================================= */
+
+img {
+  max-width: 100%;
+}
+
+
+/* =========================================================
+   Footer
+   ========================================================= */
+
+.site-footer {
+  flex-shrink: 0;
+
+  width: 100%;
+
+  margin-top: auto;
+  padding: 2rem 0;
+
+  background: #fff;
+
+  border-top: 1px solid var(--border);
+
+  color: var(--muted);
+
+  text-align: center;
+
+  font-size: 0.85rem;
+}
+
 .footer-content {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.2em;
-  font-size: 1.1em;
+
+  gap: 0.2rem;
+
+  font-family: "IBM Plex Sans", Arial, sans-serif;
 }
+
 .footer-content a {
-  color: var(--klein-blue, #002fa7);
-  text-decoration: underline;
-}
-
-/* Hide minima default nav/sidebar */
-.nav, .nav-trigger-label, .nav-trigger, .sidebar {
-  display: none !important;
-}
-
-/* NAVIGATION BAR */
-.custom-main-nav {
-  margin: 40px auto 30px auto;
-  display: flex;
-  justify-content: center;
-  gap: 4vw;
-}
-
-/* Default nav link style: blue, no bg */
-.custom-main-nav a {
-  font-size: 2.2em;
-  font-weight: bold;
-  color: var(--klein-blue, #002fa7);
+  color: var(--muted);
   text-decoration: none;
-  padding: 0.35em 0.6em;
-  border-radius: 0.3em;
-  transition: background .2s, color .2s, text-decoration .2s;
-  position: relative;
-  z-index: 1;
 }
 
-/* Page active: non cliquable, noir/blanc */
-.custom-main-nav a.active,
-.custom-main-nav a[aria-current="page"] {
-  background: #111 !important;
-  color: #fff !important;
-  pointer-events: none;
-  box-shadow: 0 2px 12px #1113;
-  border-radius: 0.3em;
-  cursor: default;
+.footer-content a:hover {
+  color: var(--accent);
 }
 
-/* Hover effect ONLY on non-active links */
-.custom-main-nav a:not(.active):not([aria-current="page"]):hover {
-  background: rgba(0,47,167,0.18);
-  color: var(--klein-blue, #002fa7);
-  box-shadow: 0 2px 12px #002fa733;
-  cursor: pointer;
-  text-decoration: underline;
-  text-underline-offset: 0.18em;
-}
 
-/* Style for ALL clickable links in main content */
-.wrapper a:not(.custom-main-nav a) {
-  color: var(--klein-blue, #002fa7);
-  text-decoration: underline;
-  text-underline-offset: 0.12em;
-  transition: text-decoration-color .15s, color .15s;
-  text-decoration-color: #b5c8f6;
-}
-.wrapper a:not(.custom-main-nav a):hover {
-  color: #000;
-  text-decoration: underline;
-  text-decoration-color: #002fa7;
-}
+/* =========================================================
+   Responsive — tablets
+   ========================================================= */
 
-/* Responsive */
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+
   .wrapper {
-    width: 98%;
-    max-width: 100%;
+    width: 90%;
   }
-  .custom-main-nav a {
-    font-size: 1.3em;
-    padding: 0.2em 0.2em;
+
+  .custom-main-nav {
+    width: 90%;
+
+    justify-content: center;
+
+    gap: 1.3rem;
+  }
+
+  .home-intro {
+    gap: 2rem;
+  }
+
+  .home-columns {
+    gap: 3rem;
+  }
+
+  .experience-item {
+    grid-template-columns: 120px 1fr;
+
+    gap: 1.5rem;
   }
 }
 
-h1, h2, h3, h4, h5, h6,
-.site-title, .site-title a {
-  color: var(--klein-blue);
+
+/* =========================================================
+   Responsive — mobile
+   ========================================================= */
+
+@media (max-width: 650px) {
+
+  body {
+    font-size: 16px;
+  }
+
+  .wrapper {
+    width: 90%;
+  }
+
+
+  /* Navigation */
+
+  .custom-main-nav {
+    width: 90%;
+
+    justify-content: flex-start;
+
+    overflow-x: auto;
+
+    padding: 1.2rem 0;
+
+    gap: 1.2rem;
+  }
+
+  .custom-main-nav a {
+    flex-shrink: 0;
+
+    font-size: 0.9rem;
+  }
+
+
+  /* Introduction */
+
+  .home-intro {
+    flex-direction: column;
+    align-items: flex-start;
+
+    padding: 2.5rem 0 2rem 0;
+
+    gap: 1.5rem;
+  }
+
+  .profile-photo {
+    width: 120px;
+    height: 120px;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+  }
+
+
+  /* TL;DR */
+
+  .tldr {
+    grid-template-columns: 1fr;
+
+    gap: 0.5rem;
+
+    margin-bottom: 3rem;
+  }
+
+
+  /* Interests + Education */
+
+  .home-columns {
+    grid-template-columns: 1fr;
+
+    gap: 3rem;
+
+    margin-bottom: 3.5rem;
+  }
+
+
+  /* Experience */
+
+  .experience-item {
+    grid-template-columns: 1fr;
+
+    gap: 0.3rem;
+
+    padding: 1.3rem 0;
+  }
+
+  .experience-date {
+    font-size: 0.82rem;
+  }
+
+  .experience-content p {
+    font-size: 0.92rem;
+  }
+
+
+  /* Bottom navigation */
+
+  .home-navigation {
+    grid-template-columns: 1fr;
+
+    gap: 0;
+  }
+
+  .navigation-card {
+    min-height: auto;
+  }
+
+
+  /* Footer */
+
+  .site-footer {
+    padding: 1.5rem 0;
+  }
 }
-img {
-  display: block;
-  margin: 0 auto 2em auto;
-  border: 1px solid var(--klein-blue-light);
-  border-radius: 8px;
-}
+```
