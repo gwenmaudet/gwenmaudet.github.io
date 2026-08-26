@@ -5,9 +5,6 @@ description: "Research areas and publications of Gwen Maudet, including machine 
 permalink: /research/
 ---
 
-
-## Current Areas
-
 ## Current Areas
 
 <div class="research-areas">
@@ -19,27 +16,15 @@ permalink: /research/
       <h3>Machine Learning for Mixed-Integer Linear Programming</h3>
 
       <p>
-        I investigate how machine learning can be integrated into MILP solvers,
-        with the objective of improving their performance while retaining the
-        interpretability and guarantees of exact optimization.
+        <strong>ML for exact solvers</strong>, with a focus on:
       </p>
 
-      <p>My work includes:</p>
-
       <ul>
-        <li>Designing <strong>human-readable machine-learning strategies</strong>
-        for key components of MILP solvers.</li>
-
-        <li>Studying <strong>structural similarities between MILP instances</strong>
-        to guide solver strategies and enable portfolio-based approaches.</li>
-
-        <li>Investigating <strong>generalization and generalizability issues</strong>
-        when learning-based solver components are applied across heterogeneous
-        optimization instances.</li>
-
-        <li>Formulating <strong>real-world networking and industrial problems as
-        MILP models</strong>, with particular attention to how the formulation
-        itself influences the resulting optimization problem and its solution.</li>
+        <li><strong>Human-readable</strong> learning strategies.</li>
+        <li><strong>Solver component</strong> improvement.</li>
+        <li><strong>MILP instance similarity</strong> and portfolio approaches.</li>
+        <li><strong>Generalization</strong> across heterogeneous instances.</li>
+        <li><strong>Mathematical modelling</strong> of networking and industrial problems.</li>
       </ul>
 
     </div>
@@ -47,29 +32,22 @@ permalink: /research/
   </div>
 
 
-  <div class="research-area research-area-previous">
+  <div class="research-area research-area-current">
 
     <div class="research-area-content">
 
       <h3>Sensor Networks &amp; IoT</h3>
 
       <p>
-        During my PhD, I studied data collection in large-scale and highly
-        constrained sensor networks, with a particular focus on the
-        <strong>Massive IoT</strong> paradigm.
+        PhD research on <strong>data collection in Massive IoT networks</strong>,
+        with a focus on:
       </p>
 
-      <p>My work explored:</p>
-
       <ul>
-        <li>Scheduling and <strong>energy-efficient monitoring</strong>
-        in large-scale sensor networks.</li>
-
-        <li>Exploiting similarities between sensors and their observations
-        to <strong>reduce redundant communications</strong>.</li>
-
-        <li>Algorithmic strategies for data collection under strong resource
-        and communication constraints.</li>
+        <li><strong>Scheduling</strong> and energy-efficient monitoring.</li>
+        <li><strong>Sensor similarity</strong> and observation patterns.</li>
+        <li><strong>Redundancy reduction</strong> in communications.</li>
+        <li><strong>Resource-constrained</strong> data collection.</li>
       </ul>
 
     </div>
@@ -77,6 +55,7 @@ permalink: /research/
   </div>
 
 </div>
+
 
 ---
 
