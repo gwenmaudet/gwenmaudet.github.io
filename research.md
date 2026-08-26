@@ -61,3 +61,19 @@ permalink: /research/
   [YT video](https://youtu.be/0p3jmufFM1k?si=zH99MpST1HHMHA3K&t=2520)
 
 
+---
+
+## Academic Supervision
+
+My PhD research was conducted within the **SRCD department of IMT Atlantique and IRISA**, under the supervision of:
+
+- **[Prof. Patrick Maillé](https://www.imt-atlantique.fr/fr/personne/patrick-maille)** — Full Professor, SRCD, IRISA, IMT Atlantique, France  
+  *PhD supervisor*
+
+- **[Prof. Laurent Toutain](https://www.imt-atlantique.fr/fr/personne/laurent-toutain)** — Full Professor, SRCD, IRISA, IMT Atlantique, France  
+  *PhD director*
+
+My current postdoctoral research is conducted within the **PCOG group at the University of Luxembourg**, under the mentorship of:
+
+- **[Prof. Grégoire Danoy](https://danoy.gforge.uni.lu/)** — Professor, PCOG, SnT, University of Luxembourg  
+  *Postdoctoral mentor*
