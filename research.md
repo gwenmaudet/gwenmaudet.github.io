@@ -16,14 +16,12 @@ permalink: /research/
       <h3>Machine Learning for Mixed-Integer Linear Programming</h3>
 
       <p>
-        <strong>ML for exact solvers</strong>, with a focus on:
+        <strong>Post doc in ML for exact solvers</strong>, with a focus on:
       </p>
 
       <ul>
-        <li><strong>Human-readable</strong> learning strategies.</li>
-        <li><strong>Solver component</strong> improvement.</li>
-        <li><strong>MILP instance similarity</strong> and portfolio approaches.</li>
-        <li><strong>Generalization</strong> across heterogeneous instances.</li>
+        <li><strong>Human-readable learning strategies</strong> for Solver component improvement.</li>
+        <li><strong>MILP instance similarity and portfolio approaches</strong> for Generalization across heterogeneous instances.</li>
         <li><strong>Mathematical modelling</strong> of networking and industrial problems.</li>
       </ul>
 
@@ -44,10 +42,8 @@ permalink: /research/
       </p>
 
       <ul>
-        <li><strong>Scheduling</strong> and energy-efficient monitoring.</li>
-        <li><strong>Sensor similarity</strong> and observation patterns.</li>
-        <li><strong>Redundancy reduction</strong> in communications.</li>
-        <li><strong>Resource-constrained</strong> data collection.</li>
+      <li><strong>Sensor similarity</strong> based on sensing transmissions.</li>
+        <li><strong>Energy-efficient monitoring</strong> through scheduling and redundancy reduction in communications.</li>
       </ul>
 
     </div>
