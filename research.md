@@ -5,82 +5,78 @@ description: "Research areas and publications of Gwen Maudet, including machine 
 permalink: /research/
 ---
 
-## Research
 
-<div class="research-highlight">
-
-<p>
-My research lies at the intersection of <strong>mathematical optimization,
-algorithm design, and machine learning</strong>. I formulate optimization
-models for real-world networking and industrial problems, develop methods
-to solve them, and investigate how learning techniques can be integrated
-into optimization solvers to improve their performance and generalizability.
-</p>
-
-</div>
-
+## Current Areas
 
 ## Current Areas
 
 <div class="research-areas">
 
-<div class="research-area">
+  <div class="research-area research-area-current">
 
-<div class="research-area-number">01</div>
+    <div class="research-area-content">
 
-<div>
+      <h3>Machine Learning for Mixed-Integer Linear Programming</h3>
 
-### Machine Learning for Mixed-Integer Linear Programming
+      <p>
+        I investigate how machine learning can be integrated into MILP solvers,
+        with the objective of improving their performance while retaining the
+        interpretability and guarantees of exact optimization.
+      </p>
 
-I investigate how machine learning can be integrated into MILP solvers,
-with the objective of improving their performance while retaining the
-interpretability and guarantees of exact optimization.
+      <p>My work includes:</p>
 
-My work includes:
+      <ul>
+        <li>Designing <strong>human-readable machine-learning strategies</strong>
+        for key components of MILP solvers.</li>
 
-- Designing **human-readable machine-learning strategies** for key
-  components of MILP solvers.
-- Studying **structural similarities between MILP instances** to guide
-  solver strategies and enable portfolio-based approaches.
-- Investigating **generalization and generalizability issues** when
-  learning-based solver components are applied across heterogeneous
-  optimization instances.
-- Formulating **real-world networking and industrial problems as MILP
-  models**, with particular attention to how the formulation itself
-  influences the resulting optimization problem and its solution.
+        <li>Studying <strong>structural similarities between MILP instances</strong>
+        to guide solver strategies and enable portfolio-based approaches.</li>
+
+        <li>Investigating <strong>generalization and generalizability issues</strong>
+        when learning-based solver components are applied across heterogeneous
+        optimization instances.</li>
+
+        <li>Formulating <strong>real-world networking and industrial problems as
+        MILP models</strong>, with particular attention to how the formulation
+        itself influences the resulting optimization problem and its solution.</li>
+      </ul>
+
+    </div>
+
+  </div>
+
+
+  <div class="research-area research-area-previous">
+
+    <div class="research-area-content">
+
+      <h3>Sensor Networks &amp; IoT</h3>
+
+      <p>
+        During my PhD, I studied data collection in large-scale and highly
+        constrained sensor networks, with a particular focus on the
+        <strong>Massive IoT</strong> paradigm.
+      </p>
+
+      <p>My work explored:</p>
+
+      <ul>
+        <li>Scheduling and <strong>energy-efficient monitoring</strong>
+        in large-scale sensor networks.</li>
+
+        <li>Exploiting similarities between sensors and their observations
+        to <strong>reduce redundant communications</strong>.</li>
+
+        <li>Algorithmic strategies for data collection under strong resource
+        and communication constraints.</li>
+      </ul>
+
+    </div>
+
+  </div>
 
 </div>
-
-</div>
-
-
-<div class="research-area">
-
-<div class="research-area-number">02</div>
-
-<div>
-
-### Sensor Networks & IoT
-
-During my PhD, I studied data collection in large-scale and highly
-constrained sensor networks, with a particular focus on the **Massive IoT**
-paradigm.
-
-My work explored:
-
-- Scheduling and **energy-efficient monitoring** in large-scale sensor
-  networks.
-- Exploiting similarities between sensors and their observations to
-  **reduce redundant communications**.
-- Algorithmic strategies for data collection under strong resource and
-  communication constraints.
-
-</div>
-
-</div>
-
-</div>
-
 
 ---
 
