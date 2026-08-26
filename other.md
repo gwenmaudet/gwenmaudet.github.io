@@ -8,6 +8,8 @@ permalink: /other/
 ## Supervision
 
 - **PhD Supervision**
+  - 2026–Present: **Simon Renard**, enhancing solver performance through machine learning.
+  - 2026–Present: **Muhammad Arslan TARIQ**, streaming through multi-cloud multi-path connections: infrastructure and path optimization.
   - 2023–Present: Alisa Vorokhta, Machine learning for mixed integer linear programming solvers.
 - **Intern Supervision**
   - 2025, 5 months: Baka Junior Cedric Ble, clustering the mixed integer linear programming space.
