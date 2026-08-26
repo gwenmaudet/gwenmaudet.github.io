@@ -799,7 +799,7 @@ img {
   margin-top: 0;
   margin-bottom: 1rem;
 
-  color: var(--klein-blue);
+  color: var(--accent);
 
   font-size: 1.4em;
   font-weight: 600;
@@ -832,14 +832,9 @@ img {
 /* Current Areas heading */
 
 .page-content > h2 {
-  margin-top: 2.5em;
-  margin-bottom: 1.5em;
+  color: var(--accent);
 
-  color: var(--klein-blue);
-
-  padding-bottom: 0.5em;
-
-  border-bottom: 2px solid var(--klein-blue);
+  border-bottom: 2px solid var(--accent);
 }
 
 
