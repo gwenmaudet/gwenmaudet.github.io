@@ -21,25 +21,21 @@ theory with practical problem solving.
   </div>
 
   <div class="teaching-theme">
-    <div class="teaching-theme-title">Algorithms & Optimization</div>
+    <div class="teaching-theme-title">Optimization Algorithms</div>
     <div class="teaching-keywords">
-            <span>Exact Optimization</span>
-      <span>Inexact Optimization</span>
+      <span>MILP definition</span>
       <span>Branch & Bound: Branching and Searching Components</span>
       <span>Population-Based Algorithms</span>
-      <span>MILP</span>
     </div>
   </div>
 
   <div class="teaching-theme">
     <div class="teaching-theme-title">Computational Practice</div>
     <div class="teaching-keywords">
-      <span>Python</span>
-      <span>MATLAB</span>
-      <span>SCIP: Optimisation Module</span>
-      <span>DEAP: Population-Based Module</span>
-            <span>Data Science Modules</span>
-      <span>Jupyter Notebooks</span>
+      <span>The SCIP Optimisation Module</span>
+      <span>The DEAP Population-Based Module</span>
+      <span>Data Science Modules</span>
+      <span>Jupyter Notebooks usage</span>
     </div>
   </div>
 
