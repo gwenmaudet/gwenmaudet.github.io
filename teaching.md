@@ -74,8 +74,6 @@ Topics and resources:
 - **Current research** — presentation of ongoing work on machine learning for optimization
 
 
----
-
 ## IMT Atlantique · Rennes · 2022–2023
 
 ### Practice Teaching
