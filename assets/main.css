@@ -2,12 +2,15 @@
    Gwen Maudet — Personal Academic Website
    ========================================================= */
 :root {
-  --accent: #3568a8;
-  --accent-light: #eef3f9;
+  --accent: #8a6a45;
+  --accent-light: #f3ede4;
+
   --text: #202124;
-  --muted: #6b7280;
-  --border: #e2e5e9;
-  --background: #ffffff;
+  --muted: #6f6b65;
+  --border: #e5e0d8;
+
+  --background: #fdfcf9;
+
   --max-width: 1050px;
 }
 
