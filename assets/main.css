@@ -780,3 +780,73 @@ img {
     padding: 1.5rem 0;
   }
 }
+/* =========================================================
+   Research areas
+   ========================================================= */
+
+.research-area {
+  margin: 0 0 3.5rem 0;
+}
+
+.research-area h3 {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+.research-area p {
+  max-width: 820px;
+}
+
+.research-area ul {
+  max-width: 820px;
+
+  margin-top: 1rem;
+  padding-left: 1.3rem;
+}
+
+.research-area li {
+  margin-bottom: 0.45rem;
+}
+
+
+/* =========================================================
+   Current Areas
+   ========================================================= */
+
+.page-content > h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+
+  padding-bottom: 0.7rem;
+
+  border-bottom: 2px solid var(--text);
+}
+
+
+/* Space between research areas */
+
+.page-content > h3 {
+  margin-top: 3rem;
+}
+
+.page-content > h3:first-of-type {
+  margin-top: 0;
+}
+
+@media (max-width: 650px) {
+
+  .page-content > h3 {
+    margin-top: 2.5rem;
+  }
+
+  .research-area p,
+  .research-area ul {
+    max-width: 100%;
+  }
+
+}
+
+
