@@ -6,6 +6,24 @@ permalink: /other/
 
 ---
 
+## Supervision
+
+- **PhD**
+  - 2026–Present: **Simon Renard**, enhancing solver branching strategy performance through machine learning.
+  - 2026–Present: **Muhammad Arslan TARIQ**, streaming through multi-cloud multi-path connections: path optimization using MILP formulation.
+  - 2023–Present: **Alisa Vorokhta**, machine learning for improving lower bound computation efficiency.
+- **Intern**
+  - 2025, 5 months: **Baka Junior Cedric Ble**, clustering the mixed integer linear programming space.
+  - 2025, 5 months:  **Mathis Da Cunha**, cutting planes selections in branch and bound.
+  - 2022, 5 months: **Issam Belhorma**, kriging techniques for sensor position estimation.
+  - 2021, 3 months: **Carlos Delgado**, sensor deployment in green walls.
+- **Student Job**
+  - 2025, 3 months, 5 h per week:  **Diptaraj SEN**,  evaluating benchmark of instances with distance between instances.
+  - 2024, 5 months, 5 h per week: **Daniele Ferrario**, understanding a reinforcement lerning framework for cutting plans.
+
+
+---
+
 ## Reviewing & Committees
 
 - **Shadow PC Chair**: Algotel-Cores 2025. Led shadow reviewing process (reviewer recruitment, methodology, and paper discussions)
