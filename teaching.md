@@ -5,17 +5,90 @@ description: "Teaching activities and courses led or assisted by Gwen Maudet, po
 permalink: /teaching/
 ---
 
+## Teaching
 
-## University of Luxembourg (2024–2025)
+My teaching spans **mathematical foundations, theoretical computer science,
+optimization, and computational methods**, with an emphasis on connecting
+theory with practical problem solving.
 
-- **Project Lead**: Supervised teams of 3 students on research projects. 4 hours lots of group work per week during one semester.
-  - Topics: *lower-bound strategies in Branch and Bound for Permutaiton Flowshop Problem* (2024) and *Cutting Plan Selection in Branch and Bound* (2025).
-- **Lecturer**: Taught Master’s students in Information and Computer Sciences. winter 2024: 4 slots of 1.5 hours, 58 students; winter 2025: 6 slots of 1.5 hours, 62 students.
-  - Topics (and resources): Branch & Bound Introdution ([PDF slides](/teaching/2025-intro_to_B_and_B.pdf)), Searching and Branching in Branch and Bound ([PDF slides](/teaching/2025-searching_and_branching.pdf)), Population-based Algorithms ([PDF slides](/teaching/2025-population_based_algorithms.pdf)), TSP Jupiter notebook ([Exercices](/teaching/2025-TSP_exercice.ipynb) and [Correction](/teaching/2025-TSP_correction.ipynb)), presentation of our current research.
+<div class="teaching-overview">
+
+  <div class="teaching-theme">
+    <div class="teaching-theme-title">Mathematical Foundations</div>
+    <div class="teaching-keywords">
+      <span>Algebra</span>
+      <span>Probability & Statistics</span>
+      <span>Signal Processing</span>
+    </div>
+  </div>
+
+  <div class="teaching-theme">
+    <div class="teaching-theme-title">Algorithms & Optimization</div>
+    <div class="teaching-keywords">
+      <span>Branch & Bound</span>
+      <span>Population-Based Algorithms</span>
+      <span>Exact Optimization</span>
+      <span>Inexact Optimization</span>
+      <span>MILP</span>
+    </div>
+  </div>
+
+  <div class="teaching-theme">
+    <div class="teaching-theme-title">Computational Practice</div>
+    <div class="teaching-keywords">
+      <span>Python</span>
+      <span>MATLAB</span>
+      <span>Data Science</span>
+      <span>Jupyter</span>
+    </div>
+  </div>
+
+</div>
+
 
 ---
 
-## IMT Atlantique, Rennes (2022–2023)
+## University of Luxembourg · 2024–2025
 
-- **Practice Teacher**: Supported international master’s program in IT. 2022: 49hours, 12 students; 2023: 40 hours, 24 students.
-  - Topics: Matlab, Algebra, Python, Data Science, Operational Research, Probability & Statistics, Signal Processing.
+### Project Supervision
+
+Supervised teams of three Master's students on semester-long research
+projects, with approximately four hours of group work per week.
+
+- **2024** — Lower-bound strategies in Branch & Bound for the
+  Permutation Flowshop Problem.
+- **2025** — Cutting-plane selection in Branch & Bound.
+
+### Lectures
+
+Taught Master's students in Information and Computer Sciences.
+
+- **Winter 2024:** 4 × 1.5-hour lectures · 58 students
+- **Winter 2025:** 6 × 1.5-hour lectures · 62 students
+
+Topics and resources:
+
+- **Introduction to Branch & Bound** — [Slides](/teaching/2025-intro_to_B_and_B.pdf)
+- **Searching and Branching in Branch & Bound** — [Slides](/teaching/2025-searching_and_branching.pdf)
+- **Population-Based Algorithms** — [Slides](/teaching/2025-population_based_algorithms.pdf)
+- **Travelling Salesman Problem** — [Exercises](/teaching/2025-TSP_exercice.ipynb) · [Correction](/teaching/2025-TSP_correction.ipynb)
+- **Current research** — presentation of ongoing work on machine learning for optimization
+
+
+---
+
+## IMT Atlantique · Rennes · 2022–2023
+
+### Practice Teaching
+
+Supported the international Master's program in Information Technology.
+
+- **2022:** 49 hours · 12 students
+- **2023:** 40 hours · 24 students
+
+Teaching covered:
+
+- **Mathematics:** Algebra, Probability & Statistics
+- **Computer Science:** Python, Data Science
+- **Engineering:** MATLAB, Signal Processing
+- **Operations Research:** Optimization and problem solving
