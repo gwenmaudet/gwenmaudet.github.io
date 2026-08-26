@@ -25,10 +25,10 @@ theory with practical problem solving.
   <div class="teaching-theme">
     <div class="teaching-theme-title">Algorithms & Optimization</div>
     <div class="teaching-keywords">
-      <span>Branch & Bound</span>
-      <span>Population-Based Algorithms</span>
-      <span>Exact Optimization</span>
+            <span>Exact Optimization</span>
       <span>Inexact Optimization</span>
+      <span>Branch & Bound: branching and searching components</span>
+      <span>Population-Based Algorithms</span>
       <span>MILP</span>
     </div>
   </div>
@@ -38,8 +38,10 @@ theory with practical problem solving.
     <div class="teaching-keywords">
       <span>Python</span>
       <span>MATLAB</span>
-      <span>Data Science</span>
-      <span>Jupyter</span>
+      <span>SCIP: optimisation module</span>
+      <span>DEAP: population based module</span>
+            <span>Data Science Modules</span>
+      <span>Jupyter Notebooks</span>
     </div>
   </div>
 
