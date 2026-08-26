@@ -118,7 +118,7 @@ permalink: /research/
 
 ---
 
-## Academic Supervision
+## Mentors
 
 My PhD research was conducted within the **SRCD department of IMT Atlantique and IRISA**, under the supervision of:
 
