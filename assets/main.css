@@ -215,13 +215,13 @@ a {
 }
 
 .social-links a:hover {
-  color: var(--text);
+  color: var(--accent);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
 .social-links a {
-  color: var(--text);
+  color: var(--accent);
 }
 
 
