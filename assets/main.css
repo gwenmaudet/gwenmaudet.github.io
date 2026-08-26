@@ -750,24 +750,33 @@ img {
    ========================================================= */
 
 .research-areas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+
   margin-top: 1.5rem;
   margin-bottom: 3.5rem;
+}
+@media (max-width: 750px) {
+  .research-areas {
+    grid-template-columns: 1fr;
+  }
 }
 
 
 /* Main current research area */
 
 .research-area-current {
-  background: var(--klein-blue-light);
+  background: var(--accent-light);
 
-  border-left: 5px solid var(--klein-blue);
+  border-left: 4px solid var(--accent);
   border-radius: 6px;
 
-  padding: 2rem 2.2rem;
+  padding: 1.7rem 1.8rem;
 
-  margin-bottom: 2.5rem;
+  margin-bottom: 0;
 
-  box-shadow: 0 3px 12px rgba(0, 47, 167, 0.08);
+  box-shadow: 0 3px 12px rgba(23, 78, 166, 0.08);
 }
 
 
