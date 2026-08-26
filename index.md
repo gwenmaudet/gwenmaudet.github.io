@@ -190,17 +190,17 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
 
   <a href="research/" class="navigation-card">
     <strong>Research</strong>
-    <span>Projects, publications and research topics →</span>
+    <span>Research interests and publications →</span>
   </a>
 
   <a href="teaching/" class="navigation-card">
     <strong>Teaching</strong>
-    <span>Courses, lectures and student supervision →</span>
+    <span>Courses, lectures and project supervision →</span>
   </a>
 
   <a href="other/" class="navigation-card">
     <strong>Other activities</strong>
-    <span>Service, reviewing and other activities →</span>
+    <span>Student supervision, reviewing and miscellaneous →</span>
   </a>
 
 </div>
