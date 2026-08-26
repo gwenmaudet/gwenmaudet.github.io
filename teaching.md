@@ -27,7 +27,7 @@ theory with practical problem solving.
     <div class="teaching-keywords">
             <span>Exact Optimization</span>
       <span>Inexact Optimization</span>
-      <span>Branch & Bound: branching and searching components</span>
+      <span>Branch & Bound: Branching and Searching Components</span>
       <span>Population-Based Algorithms</span>
       <span>MILP</span>
     </div>
@@ -38,8 +38,8 @@ theory with practical problem solving.
     <div class="teaching-keywords">
       <span>Python</span>
       <span>MATLAB</span>
-      <span>SCIP: optimisation module</span>
-      <span>DEAP: population based module</span>
+      <span>SCIP: Optimisation Module</span>
+      <span>DEAP: Population-Based Module</span>
             <span>Data Science Modules</span>
       <span>Jupyter Notebooks</span>
     </div>
