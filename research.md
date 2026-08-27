@@ -20,8 +20,8 @@ permalink: /research/
       </p>
 
       <ul>
-        <li><strong>Human-readable learning strategies</strong> for Solver component improvement.</li>
-        <li><strong>MILP instance similarity and portfolio approaches</strong> for Generalization across heterogeneous instances.</li>
+        <li><strong>Human-readable ML strategies</strong> for Solver component improvement.</li>
+        <li><strong>MILP instance similarity and portfolio approaches</strong> for Generalization of ML across heterogeneous instances.</li>
         <li><strong>Mathematical modelling</strong> of networking and industrial problems.</li>
       </ul>
 
@@ -66,8 +66,7 @@ permalink: /research/
 
 - A. Vorokhta, **G. Maudet**, G. Danoy, “Selecting the Best Lower-Bound Strategy in a Branch-and-Bound Algorithm Using Genetic Programming,” *International Workshop on Big Optimization*, 2026. [Link](https://link.springer.com/chapter/10.1007/978-3-032-15455-2_4)
 
-- **G. Maudet**, G. Danoy,  
-  “A Distance Metric for Mixed Integer Programming Instances,” *European Conference on Artificial Intelligence*, 2025. (CORE: A) [Link](https://ebooks.iospress.nl/doi/10.3233/FAIA250894)
+- **G. Maudet**, G. Danoy, “A Distance Metric for Mixed Integer Programming Instances,” *European Conference on Artificial Intelligence*, 2025. (CORE: A) [Link](https://ebooks.iospress.nl/doi/10.3233/FAIA250894)
 
 - **G. Maudet**, G. Danoy, “Search Strategy Generation for Branch and Bound Using Genetic Programming,” *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
 
