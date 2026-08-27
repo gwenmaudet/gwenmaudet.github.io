@@ -33,7 +33,7 @@ theory with practical problem solving.
     <div class="teaching-theme-title">Computational Practice</div>
     <div class="teaching-keywords">
       <span>The SCIP Optimisation Module</span>
-      <span>The DEAP Population-Based Module</span>
+      <span>The DEAP metheuristic tool</span>
       <span>Data Science Modules</span>
       <span>Jupyter Notebooks usage</span>
     </div>
