@@ -48,6 +48,6 @@ permalink: /other/
   vegetables, homemade vinegar from *questionably old* alcohol.
 
 - 🧗 **Sports** — Indoor and outdoor bouldering, rope climbing,
-  trail running, cycling, and a black belt in judo.
+  trail running and hiking, cyclotourism, and a black belt in judo.
 
 - 🎵 **Music** — Post-punk, rap, indie rock, and French *variété*.
