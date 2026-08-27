@@ -35,7 +35,7 @@ theory with practical problem solving.
       <span>The SCIP Optimisation Module</span>
       <span>The DEAP metheuristic tool</span>
       <span>Data Science Modules</span>
-      <span>Jupyter Notebooks usage</span>
+      <span>Jupyter Notebooks for practices</span>
     </div>
   </div>
 
@@ -66,7 +66,7 @@ Topics and resources:
 - **Introduction to Branch & Bound** — [Slides](/teaching/2025-intro_to_B_and_B.pdf)
 - **Searching and Branching in Branch & Bound** — [Slides](/teaching/2025-searching_and_branching.pdf)
 - **Population-Based Algorithms** — [Slides](/teaching/2025-population_based_algorithms.pdf)
-- **Travelling Salesman Problem** — [Exercises](/teaching/2025-TSP_exercice.ipynb) · [Correction](/teaching/2025-TSP_correction.ipynb)
+- **Solving Methods for the Travelling Salesman Problem** — [Exercises](/teaching/2025-TSP_exercice.ipynb) · [Correction](/teaching/2025-TSP_correction.ipynb)
 - **Current research** — presentation of ongoing work on machine learning for optimization
 
 --
