@@ -6,12 +6,12 @@ permalink: /other/
 
 ---
 
-## Supervision
+## 🎓 Supervision
 
 - **PhDs**
-  - 2026–Present: **Simon Renard**, enhancing solver branching strategy performance through machine learning.
-  - 2026–Present: **Muhammad Arslan TARIQ**, streaming through multi-cloud multi-path connections: path optimization using MILP formulation.
-  - 2023–Present: **Alisa Vorokhta**, machine learning for improving lower bound computation efficiency.
+  - 2026–Present: **Simon Renard**, enhancing solver's branching strategy through machine learning.
+  - 2026–Present: **Muhammad Arslan Tariq**, streaming through multi-cloud multi-path connections: path optimization using MILP formulation.
+  - 2023–Present: **Alisa Vorokhta**, machine learning for improving lower bound computation.
 - **Interns**
   - 2025, 5 months: **Baka Junior Cedric Ble**, clustering the mixed integer linear programming space.
   - 2025, 5 months:  **Mathis Da Cunha**, cutting planes selections in branch and bound.
@@ -24,14 +24,14 @@ permalink: /other/
 
 ---
 
-## Reviewing & Committees
+## 📝 Reviewing & Committees
 
 - **Shadow PC Chair**: Algotel-Cores 2025. Led shadow reviewing process (reviewer recruitment, methodology, and paper discussions)
 - **Reviewer**: IEEE TNSM, IEEE Sensors Journal, IPDPS Workshop, shadow reviewer for Algotel/Cores.
 
 ---
 
-## Positions in Associations
+## 🤝 Positions in Associations
 - **President of the association of PhD students and young researchers**: one-year term 2022–2023, IMT Atlantique Rennes.
 - **PhD students’ representative at doctoral school "SPIN"**: 2023, IMT Atlantique Rennes.
 
@@ -39,6 +39,15 @@ permalink: /other/
 ---
 
 ## Hobbies
-- Gardening: from seed to fruit, permaculture (seeds to give/eschange).
-- Sport: indoor/outdoor boulderer and rope climber, black belt judoka, trail runner and cyclo tourist.
-- Music: post-punk, rap, indie rock and french variety.
+
+- 🌱 **Gardening & permaculture** — From seed to fruit, including
+  edible and inedible plants, flowering plants, and anything else
+  that happens to grow.
+
+- 🫙 **Fermentation & experimental cooking** — Kombucha, lacto-fermented
+  vegetables, homemade vinegar from *questionably old* alcohol.
+
+- 🧗 **Sports** — Indoor and outdoor bouldering, rope climbing,
+  trail running, cycling, and a black belt in judo.
+
+- 🎵 **Music** — Post-punk, rap, indie rock, and French *variété*.
