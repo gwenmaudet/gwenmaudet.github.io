@@ -48,21 +48,21 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
 <div class="home-columns">
 
   <section>
-    <h2>Interests</h2>
+    <h2>🧩 Interests</h2>
 
     <ul class="interest-list">
-      <li>🧩 Mixed-Integer Programming</li>
-      <li>🧩 Machine Learning for Solvers</li>
-      <li>🧩 Generalizability of Machine Learning for Optimization</li>
-      <li>🧩 Optimization in Engineering</li>
-      <li>🧩 Algorithm Design</li>
-      <li>🧩 Mesh and Star Network Topologies</li>
+      <li> Mixed-Integer Programming</li>
+      <li> Machine Learning for Solvers</li>
+      <li> Generalizability of Machine Learning for Optimization</li>
+      <li> Optimization in Engineering</li>
+      <li> Algorithm Design</li>
+      <li> Mesh and Star Network Topologies</li>
     </ul>
   </section>
 
 
   <section>
-    <h2>Education</h2>
+    <h2>🎓 Education</h2>
 
     <div class="timeline compact">
 
