@@ -98,6 +98,9 @@ permalink: /research/
 
 
 ### Ongoing Work
+- "Adaptive Lower Bound Evaluation for the Permutation Flowshop Scheduling Problem", in collaboration with Alisa Vorokhta. *Under review.*
+
+- "SkyHOSTop: Cost‑Aware Multi‑Cloud Streaming Overlay Optimization", in collaboration with Muhammad Arslan Tariq. *Under review.*
 
 - “Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming,” in collaboration with Mathis Da Cunha. *Under review.*
 
