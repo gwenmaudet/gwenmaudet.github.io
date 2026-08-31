@@ -88,7 +88,7 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
       <div class="timeline-item">
         <span class="timeline-date">2014–2016</span>
         <div>
-          <strong>Classes Préparatoires</strong>
+          <strong>Intensive Preparatory Program for Engineering Schools</strong>
           <p>
             Lycée Rabelais · MPSI → MP
           </p>
