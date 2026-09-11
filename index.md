@@ -25,7 +25,7 @@ description: "Homepage of Gwen Maudet, Postdoctoral Researcher at the University
     </p>
 
     <p class="social-links">
-      <a href="mailto:gwen.maudet at laposte.net">✉ Email</a>
+      <a href="mailto:ggwen.maudet at gmail.com">✉ Email</a>
       <a href="https://orcid.org/0000-0003-0340-2542">◉ ORCID</a>
       <a href="https://www.linkedin.com/in/gwen-maudet-1a1490171/">in LinkedIn</a>
       <a href="cv_gwen_maudet.pdf">↓ CV</a>
