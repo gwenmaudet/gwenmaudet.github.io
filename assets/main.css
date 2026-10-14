@@ -50,6 +50,76 @@ body {
 
 
 /* =========================================================
+   Single-page navigation
+   ========================================================= */
+
+.page-index {
+  position: sticky;
+  top: 72px; /* Adjust to the height of the main navigation */
+  z-index: 900;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 1.3rem;
+
+  margin: 0 0 3rem 0;
+  padding: 0.9rem 0;
+
+  background: var(--background);
+  border-bottom: 1px solid var(--border);
+
+  font-size: 0.88rem;
+}
+
+.page-index a {
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.page-index a:hover {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Leave room for sticky navigation when jumping to a section */
+.page-content section[id],
+.page-content h2[id] {
+  scroll-margin-top: 150px;
+}
+
+/* Main sections of the single page */
+.page-content section {
+  margin-bottom: 4rem;
+}
+
+/* Section headings on the single page */
+.page-content section > h2,
+.page-content > h2 {
+  color: var(--text);
+  border-bottom: 2px solid var(--text);
+  padding-bottom: 0.7rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Compact navigation on mobile */
+@media (max-width: 650px) {
+  .page-index {
+    top: 58px;
+    gap: 0.5rem 1rem;
+    padding: 0.8rem 0;
+    font-size: 0.82rem;
+  }
+
+  .page-content section {
+    margin-bottom: 3rem;
+  }
+}
+
+
+
+/* =========================================================
    Typography
    ========================================================= */
 
