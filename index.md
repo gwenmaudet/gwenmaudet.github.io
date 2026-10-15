@@ -9,7 +9,6 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
   <img src="gwen.JPG" alt="Portrait of Gwen Maudet" class="profile-photo">
 
   <div class="intro-text">
-    <h1>Gwen Maudet</h1>
 
     <p class="position">
       Postdoctoral Researcher<br>
