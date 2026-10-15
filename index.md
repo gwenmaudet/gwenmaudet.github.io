@@ -140,162 +140,143 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 <hr>
 
 
-<section id="research">
-  <h2>Research</h2>
+---
+layout: page
+title: "Research"
+description: "Research areas and publications of Gwen Maudet, including machine learning for MILP, sensor networks, IoT, and optimization algorithms."
+permalink: /research/
+---
 
-  <h3 id="research-overview">Overview</h3>
+## Current Areas
 
-  <div class="research-areas">
+<div class="research-areas">
 
-    <div class="research-area research-area-current">
-      <div class="research-area-content">
-        <div class="research-area-date">2023–Now</div>
-        <h4>Machine Learning for MILP Solvers</h4>
-        <p>
-          My research focuses on using machine learning to improve exact
-          solvers for Mixed-Integer Linear Programming (MILP). I am particularly
-          interested in interpretable methods, using genetic programming to
-          generate explicit rules for solver components such as branching,
-          lower-bound computation, and cutting-plane selection.
-        </p>
-        <p>
-          I also work on measuring similarities between MILP instances and
-          using them to build portfolios of specialized solving strategies
-          that generalize across problem instances.
-        </p>
-      </div>
-    </div>
+  <div class="research-area research-area-current">
 
-    <div class="research-area research-area-previous">
-      <div class="research-area-content">
-        <div class="research-area-date">2020–2023</div>
-        <h4>Sensor Networks &amp; IoT</h4>
-        <p>
-          During my PhD, I studied how similarities between sensors and their
-          observations can improve data collection in massive Internet of
-          Things (IoT) networks.
-        </p>
-        <p>
-          My work addressed energy-efficient monitoring, transmission
-          scheduling, and redundancy reduction, with the goal of collecting
-          useful information while limiting communication costs.
-        </p>
-      </div>
+    <div class="research-area-content">
+
+      <h3>Machine Learning for Mixed-Integer Linear Programming</h3>
+
+      <p>
+        <strong>Post doc in ML for exact solvers</strong>, with a focus on:
+      </p>
+
+      <ul>
+        <li><strong>Human-readable ML strategies</strong> for Solver component improvement.</li>
+        <li><strong>MILP instance similarity and portfolio approaches</strong> for Generalization of ML across heterogeneous instances.</li>
+        <li><strong>Mathematical modelling</strong> of networking and industrial problems.</li>
+      </ul>
+
     </div>
 
   </div>
 
-  <h3 id="research-publications">Publications</h3>
 
-  <h4>International Journals</h4>
-  <ul>
-    <li>
-      <strong>Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines.</strong>
-      Maillé, Maudet, Simon, and Tuffin. ECRA, 2022.
-      <a href="https://doi.org/10.1016/j.ejor.2022.01.020">DOI</a>
-    </li>
-  </ul>
+  <div class="research-area research-area-current">
 
-  <h4>International Conferences</h4>
-  <ul>
-    <li>
-      <strong>Selecting the Best Lower-Bound Strategy in a Branch-and-Bound Algorithm Using Genetic Programming.</strong>
-      Vorokhta, Maudet, and Danoy. International Workshop on Big Optimization, 2026.
-      <a href="https://link.springer.com/">Springer</a>
-    </li>
-    <li>
-      <strong>A Distance Metric for Mixed Integer Programming Instances.</strong>
-      Maudet and Danoy. ECAI, 2025.
-      <a href="https://ebooks.iospress.nl/">IOS Press</a>
-    </li>
-    <li>
-      <strong>Search Strategy Generation for Branch and Bound Using Genetic Programming.</strong>
-      Maudet and Danoy. AAAI, 2025.
-      <a href="https://arxiv.org/abs/2412.09444">arXiv</a>
-    </li>
-    <li>
-      <strong>Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring.</strong>
-      Maudet et al. IEEE WCNC, 2023.
-    </li>
-    <li>
-      <strong>Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization.</strong>
-      Maudet et al. IEEE/IFIP NOMS, 2022.
-    </li>
-  </ul>
+    <div class="research-area-content">
 
-  <h4>Extended Abstracts and National Conferences</h4>
-  <ul>
-    <li>
-      Da Cunha, Maudet, and Danoy. Cutting-plane selection using genetic programming. COL, 2026.
-    </li>
-    <li>
-      Blé, Maudet, and Danoy. Distance-based portfolio learning. COL, 2026.
-    </li>
-    <li>
-      Maudet and Danoy. Distance metric for mixed-integer programming instances. ROADEF, 2026.
-    </li>
-    <li>
-      Maudet and Danoy. Distance metric for mixed-integer programming instances. ORBEL, 2026.
-    </li>
-    <li>
-      Vorokhta, Maudet, and Danoy. Lower-bound strategies for the permutation flowshop scheduling problem. COL, 2025.
-    </li>
-    <li>
-      Maudet et al. Grouper les capteurs similaires grâce à leurs données. ALGOTEL, 2024.
-      <a href="https://hal.science/">HAL</a>
-    </li>
-    <li>
-      Maudet et al. Réduction de la redondance dans les réseaux de capteurs. ALGOTEL, 2023.
-      <a href="https://hal.science/">HAL</a>
-    </li>
-  </ul>
+      <h3>Sensor Networks &amp; IoT</h3>
 
-  <h4>Preprint</h4>
-  <ul>
-    <li>
-      <strong>Grouping Sensors Based on Observations in a Massive IoT Deployment.</strong>
-      <a href="https://hal.science/">HAL</a>
-    </li>
-  </ul>
+      <p>
+        PhD research on <strong>data collection in Massive IoT networks</strong>,
+        with a focus on:
+      </p>
 
-  <h4>Ongoing Work</h4>
-  <ul>
-    <li>
-      <strong>Adaptive Lower Bound Evaluation for the Permutation Flowshop Scheduling Problem.</strong>
-      With Alisa Vorokhta. Under review.
-    </li>
-    <li>
-      <strong>SkyHOSTop: Cost-Aware Multi-Cloud Streaming Overlay Optimization.</strong>
-      With Muhammad Arslan Tariq. Under review.
-    </li>
-    <li>
-      <strong>Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming.</strong>
-      With Mathis Da Cunha. Under review.
-    </li>
-    <li>
-      <strong>Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming.</strong>
-      In progress.
-    </li>
-    <li>
-      <strong>Distance Based Clustering of the Mixed-Integer Programming Space for Portfolio-Based Machine Learning Generalization.</strong>
-      With Baka Junior Cedric Blé. In progress.
-    </li>
-  </ul>
+      <ul>
+      <li><strong>Sensor similarity</strong> based on sensing transmissions.</li>
+        <li><strong>Energy-efficient monitoring</strong> through scheduling and redundancy reduction in communications.</li>
+      </ul>
 
-  <h4>PhD Thesis</h4>
-  <p>
-    <strong>Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks.</strong>
-    PhD thesis, IMT Atlantique, 2023.
-    <a href="https://hal.science/">HAL</a>
-  </p>
+    </div>
 
-  <h3 id="research-mentors">Mentors</h3>
-  <ul>
-    <li><a href="https://www.imt-atlantique.fr/">Patrick Maillé</a></li>
-    <li><a href="https://www.imt-atlantique.fr/">Laurent Toutain</a></li>
-    <li><a href="https://www.uni.lu/">Grégoire Danoy</a></li>
-  </ul>
-</section>
+  </div>
+
+</div>
+
+
+---
+
+## Publications
+
+### International Journals
+
+- P. Maillé, **G. Maudet**, M. Simon, B. Tuffin, “Are Search Engines Biased? Detecting and Reducing Bias using Meta Search Engines,” *Electronic Commerce Research and Applications*, 2022. (SJR: Q1) [Link](https://doi.org/10.1016/j.elerap.2022.101132)
+
+
+### International Conferences
+
+- A. Vorokhta, **G. Maudet**, G. Danoy, “Selecting the Best Lower-Bound Strategy in a Branch-and-Bound Algorithm Using Genetic Programming,” *International Workshop on Big Optimization*, 2026. [Link](https://link.springer.com/chapter/10.1007/978-3-032-15455-2_4)
+
+- **G. Maudet**, G. Danoy, “A Distance Metric for Mixed Integer Programming Instances,” *European Conference on Artificial Intelligence*, 2025. (CORE: A) [Link](https://ebooks.iospress.nl/doi/10.3233/FAIA250894)
+
+- **G. Maudet**, G. Danoy, “Search Strategy Generation for Branch and Bound Using Genetic Programming,” *Association for the Advancement of Artificial Intelligence*, 2025. (CORE: A*) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33229)
+
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Energy Efficient Message Scheduling with Redundancy Control for Massive IoT Monitoring,” *IEEE WCNC*, 2023. (CORE: B)  [Link](https://ieeexplore.ieee.org/abstract/document/10118910)
+
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Emission Scheduling Strategies for Massive-IoT: Implementation and Performance Optimization,” *IEEE/IFIP NOMS*, 2022. (CORE: B) [Link](https://ieeexplore.ieee.org/document/9789769)
+
+
+### Extended Abstracts and National Conferences
+
+- M. Da Cunha, **G. Maudet**, G. Danoy, “Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming,” Extended Abstract, *Conference on Optimisation and Learning*, 2026.
+
+- B. Blé, **G. Maudet**, G. Danoy, “Distance-based Portfolio Learning for Mixed-Integer Programming,” Extended Abstract, *Conference on Optimisation and Learning*, 2026.
+
+- **G. Maudet**, G. Danoy, “Une Distance pour les Instances de Programmation Linéaire en Nombres Entiers Mixtes,” *ROADEF*, February 2026.
+
+- **G. Maudet**, G. Danoy, “A Distance Metric for Mixed Integer Programming Instances,” *ORBEL*, February 2026.
+
+- A. Vorokhta, **G. Maudet**, G. Danoy, “Generating LB Computation Strategies in a B&B Algorithm: Application to the PFSP,” Extended Abstract, *Conference on Optimisation and Learning*, 2025.
+
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouper les Capteurs Similaires Grâce à leurs Données dans le Contexte de Massive IoT,” *ALGOTEL*, May 2024. [HAL](https://hal.science/hal-04549902v1)
+
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Réduction de la Redondance de Messages des Capteurs dans un Contexte Massive IoT,” *ALGOTEL*, May 2023. [HAL](https://hal.science/hal-04079906)
+
+
+### Preprint
+
+- **G. Maudet**, M. Batton-Hubert, P. Maillé, L. Toutain, “Grouping Sensors Based on Observations in a Massive IoT Deployment.” [HAL](https://hal.science/hal-04424455v4)
+
+
+### Ongoing Work
+- "Adaptive Lower Bound Evaluation for the Permutation Flowshop Scheduling Problem", in collaboration with Alisa Vorokhta. *Under review.*
+
+- "SkyHOSTop: Cost‑Aware Multi‑Cloud Streaming Overlay Optimization", in collaboration with Muhammad Arslan Tariq. *Under review.*
+
+- “Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming,” in collaboration with Mathis Da Cunha. *Under review.*
+
+- “Performance Driven Portfolio Approach to Generalize Machine Learning for Mixed Integer Programming.” *In progress.*
+
+- “Distance Based Clustering of the Mixed-Integer Programming Space for Portfolio-Based Machine Learning Generalization,” in collaboration with Baka Junior Cedric Blé. *In progress.*
+
+---
+
+## PhD Thesis
+
+**Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks**
+
+[Thesis on HAL](https://hal.science/tel-04349604v1) ·
+[PhD defense video](https://youtu.be/0p3jmufFM1k?si=zH99MpST1HHMHA3K&t=2520)
+
+
+---
+
+## Mentors
+
+My PhD research was conducted within the **SRCD department of IMT Atlantique and IRISA**, under the supervision of:
+
+- **[Prof. Patrick Maillé](https://www.imt-atlantique.fr/fr/personne/patrick-maille)** — Full Professor, SRCD, IRISA, IMT Atlantique, France  
+  *PhD supervisor*
+
+- **[Prof. Laurent Toutain](https://www.imt-atlantique.fr/fr/personne/laurent-toutain)** — Full Professor, SRCD, IRISA, IMT Atlantique, France  
+  *PhD director*
+
+My current postdoctoral research is conducted within the **PCOG group at the University of Luxembourg**, under the mentorship of:
+
+- **[Prof. Grégoire Danoy](https://danoy.gforge.uni.lu/)** — Professor, PCOG, SnT, University of Luxembourg  
+  *Postdoctoral mentor*
+
 
 <hr>
 
