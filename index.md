@@ -348,6 +348,61 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
 <hr>
 
+<section id="supervision" class="page-section">
+  <h2>Supervision</h2>
+
+  <h3>PhD Students</h3>
+  <ul>
+    <li>
+      <strong>2026–Present · Simon Renard</strong> — Enhancing solver
+      branching strategies through machine learning.
+    </li>
+    <li>
+      <strong>2026–Present · Muhammad Arslan Tariq</strong> — Streaming
+      through multi-cloud, multi-path connections; path optimization using
+      MILP formulations.
+    </li>
+    <li>
+      <strong>2023–Present · Alisa Vorokhta</strong> — Machine learning for
+      improving lower-bound computation.
+    </li>
+  </ul>
+
+  <h3>Interns</h3>
+  <ul>
+    <li>
+      <strong>2025 · Baka Junior Cedric Blé</strong> — Clustering the
+      mixed-integer programming space; 5 months.
+    </li>
+    <li>
+      <strong>2025 · Mathis Da Cunha</strong> — Cutting-plane selection in
+      Branch &amp; Bound; 5 months.
+    </li>
+    <li>
+      <strong>2022 · Issam Belhorma</strong> — Kriging techniques for sensor
+      position estimation; 5 months.
+    </li>
+    <li>
+      <strong>2021 · Carlos Delgado</strong> — Sensor deployment in green
+      walls; 3 months.
+    </li>
+  </ul>
+
+  <h3>Student Projects &amp; Jobs</h3>
+  <ul>
+    <li>
+      <strong>2025 · Diptaraj Sen</strong> — Evaluating instance benchmarks
+      using distances between optimization instances; 3 months, 5 h/week.
+    </li>
+    <li>
+      <strong>2024 · Daniele Ferrario</strong> — Understanding a
+      reinforcement-learning framework for cutting-plane selection;
+      5 months, 5 h/week.
+    </li>
+  </ul>
+</section>
+
+<hr>
 <section id="teaching" class="page-section">
   <h2>Teaching</h2>
 
@@ -456,61 +511,6 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
 <hr>
 
-<section id="supervision" class="page-section">
-  <h2>Supervision</h2>
-
-  <h3>PhD Students</h3>
-  <ul>
-    <li>
-      <strong>2026–Present · Simon Renard</strong> — Enhancing solver
-      branching strategies through machine learning.
-    </li>
-    <li>
-      <strong>2026–Present · Muhammad Arslan Tariq</strong> — Streaming
-      through multi-cloud, multi-path connections; path optimization using
-      MILP formulations.
-    </li>
-    <li>
-      <strong>2023–Present · Alisa Vorokhta</strong> — Machine learning for
-      improving lower-bound computation.
-    </li>
-  </ul>
-
-  <h3>Interns</h3>
-  <ul>
-    <li>
-      <strong>2025 · Baka Junior Cedric Blé</strong> — Clustering the
-      mixed-integer programming space; 5 months.
-    </li>
-    <li>
-      <strong>2025 · Mathis Da Cunha</strong> — Cutting-plane selection in
-      Branch &amp; Bound; 5 months.
-    </li>
-    <li>
-      <strong>2022 · Issam Belhorma</strong> — Kriging techniques for sensor
-      position estimation; 5 months.
-    </li>
-    <li>
-      <strong>2021 · Carlos Delgado</strong> — Sensor deployment in green
-      walls; 3 months.
-    </li>
-  </ul>
-
-  <h3>Student Projects &amp; Jobs</h3>
-  <ul>
-    <li>
-      <strong>2025 · Diptaraj Sen</strong> — Evaluating instance benchmarks
-      using distances between optimization instances; 3 months, 5 h/week.
-    </li>
-    <li>
-      <strong>2024 · Daniele Ferrario</strong> — Understanding a
-      reinforcement-learning framework for cutting-plane selection;
-      5 months, 5 h/week.
-    </li>
-  </ul>
-</section>
-
-<hr>
 
 <section id="service" class="page-section">
   <h2>Reviewing &amp; Service</h2>
