@@ -5,11 +5,14 @@
   </head>
   <body>
     <nav class="custom-main-nav">
-      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-      <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains '/research' %}active{% endif %}">Research</a>
-      <a href="{{ '/teaching/' | relative_url }}" class="{% if page.url contains '/teaching' %}active{% endif %}">Teaching</a>
-      <a href="{{ '/other/' | relative_url }}" class="{% if page.url contains '/other' %}active{% endif %}">Other activities</a>
-    </nav>
+  <a href="#top">Home</a>
+  <a href="#experience">Experience &amp; Education</a>
+  <a href="#research">Research</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#supervision">Supervision</a>
+  <a href="#service">Reviewing &amp; Service</a>
+  <a href="#interests">Other Interests</a>
+</nav>
     <div class="wrapper">
       {{ content }}
     </div>
