@@ -196,36 +196,32 @@ a {
    Main navigation
    ========================================================= */
 
+
 .custom-main-nav {
   box-sizing: border-box;
 
-  width: min(92%, var(--max-width));
-  max-width: var(--max-width);
-
-  margin: 0 auto;
-  padding: 1.5rem 0 1.25rem 0;
+  width: 100%;
+  padding: 1rem max(4%, calc((100% - var(--max-width)) / 2));
 
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 1.8rem;
+  flex-wrap: wrap;
+  gap: 1.2rem;
 
   border-bottom: 1px solid var(--border);
 
   font-family: "IBM Plex Sans", Arial, sans-serif;
 
-  /* Sticky navigation */
   position: sticky;
   top: 0;
   z-index: 1000;
 
-  /* Background when content scrolls underneath */
   background: rgba(255, 255, 255, 0.96);
-
-  /* Subtle separation from the page */
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
 }
+
 /* =========================================================
    Homepage — introduction
    ========================================================= */
