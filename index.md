@@ -370,6 +370,8 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
 </section>
 
+<hr>
+
 
 
 <section id="supervision" class="page-section">
