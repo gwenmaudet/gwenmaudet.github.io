@@ -4,34 +4,36 @@ title: ""
 description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathematical optimization, machine learning for MILP, and IoT."
 ---
 
+
 <div class="home-intro" id="top">
-<h1>Gwen Maudet</h1>
-  <p class="position">
-  <img src="gwen.JPG" alt="Portrait of Gwen Maudet" class="profile-photo">
+  <h1>Gwen Maudet</h1>
 
-  <div class="intro-text">
+  <div class="home-intro-content">
+    <img src="gwen.JPG" alt="Portrait of Gwen Maudet" class="profile-photo">
 
-    
-      Postdoctoral Researcher<br>
-      <a href="https://www.uni.lu/snt-en/">University of Luxembourg</a> ·
-      <a href="https://www.uni.lu/snt-en/research-groups/pcog/">SnT · PCOG</a>
-    </p>
+    <div class="intro-text">
+      <p class="position">
+        Postdoctoral Researcher<br>
+        <a href="https://www.uni.lu/snt-en/">University of Luxembourg</a> ·
+        <a href="https://www.uni.lu/snt-en/research-groups/pcog/">SnT · PCOG</a>
+      </p>
 
-    <p class="intro-bio">
-      I work at the intersection of mathematical optimization, machine
-      learning, and algorithm design, with applications to industrial
-      optimization and networking problems.
-    </p>
+      <p class="intro-bio">
+        I work at the intersection of mathematical optimization, machine
+        learning, and algorithm design, with applications to industrial
+        optimization and networking problems.
+      </p>
 
-    <p class="social-links">
-      <a href="mailto:gwen.maudet@gmail.com">✉ Email</a>
-      <a href="https://orcid.org/0000-0003-0340-2542">◉ ORCID</a>
-      <a href="https://www.linkedin.com/in/gwen-maudet-1a1490171/">in LinkedIn</a>
-      <a href="cv_gwen_maudet.pdf">↓ CV (PDF)</a>
-    </p>
+      <p class="social-links">
+        <a href="mailto:gwen.maudet@gmail.com">✉ Email</a>
+        <a href="https://orcid.org/0000-0003-0340-2542">◉ ORCID</a>
+        <a href="https://www.linkedin.com/in/gwen-maudet-1a1490171/">in LinkedIn</a>
+        <a href="cv_gwen_maudet.pdf">↓ CV (PDF)</a>
+      </p>
+    </div>
   </div>
-
 </div>
+
 
 <div class="tldr">
   <div class="section-label">Research profile</div>
