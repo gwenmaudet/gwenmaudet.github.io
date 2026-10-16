@@ -120,7 +120,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
           <strong>Header compression for IoT networks.</strong>
           Developed clustering-based methods to identify similarities
           between transmission headers and generate compression rules
-          based on <a href="[https://snide.irisa.fr](https://www.rfc-editor.org/info/rfc8724/)">RFC 8724</a>.
+          based on <a href="https://www.rfc-editor.org/info/rfc8724/">FC 8724</a>.
         </p>
       </div>
     </article>
