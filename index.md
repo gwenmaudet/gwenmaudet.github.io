@@ -6,11 +6,12 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
 <div class="home-intro" id="top">
 <h1>Gwen Maudet</h1>
+  <p class="position">
   <img src="gwen.JPG" alt="Portrait of Gwen Maudet" class="profile-photo">
 
   <div class="intro-text">
 
-    <p class="position">
+    
       Postdoctoral Researcher<br>
       <a href="https://www.uni.lu/snt-en/">University of Luxembourg</a> ·
       <a href="https://www.uni.lu/snt-en/research-groups/pcog/">SnT · PCOG</a>
