@@ -84,9 +84,9 @@ body {
 }
 
 /* Leave room for sticky navigation when jumping to a section */
-.page-content section[id],
-.page-content h2[id] {
-  scroll-margin-top: 10px;
+section[id],
+h2[id] {
+  scroll-margin-top: 80px;
 }
 
 /* Main sections of the single page */
