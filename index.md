@@ -76,7 +76,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
           <strong>Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks.</strong>
           Research on sensor similarity, energy-efficient data collection,
           message scheduling, and redundancy reduction in large-scale IoT
-          networks. This work was founded under the industrial chair <a href="https://valadoe.wp.imt.fr">ValaDoE/a>.
+          networks. This work was founded under the industrial chair <a href="https://valadoe.wp.imt.fr">ValaDoE</a>.
         </p>
         <p>
           <a href="https://hal.science/tel-04349604v1">PhD thesis</a> ·
