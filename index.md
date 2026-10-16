@@ -76,7 +76,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
           <strong>Exploiting Sensor Similarity to Enhance Data Collection in Massive IoT Networks.</strong>
           Research on sensor similarity, energy-efficient data collection,
           message scheduling, and redundancy reduction in large-scale IoT
-          networks.
+          networks. This work was founded under the industrial chair <a href="https://valadoe.wp.imt.fr">ValaDoE/a>.
         </p>
         <p>
           <a href="https://hal.science/tel-04349604v1">PhD thesis</a> ·
@@ -103,8 +103,8 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
       <div class="experience-content">
         <h3>Engineering Degree</h3>
         <p class="experience-place">IMT Atlantique · Nantes, France</p>
-        <p>Computer Science for Decision Support.</p>
         <p>
+        <strong>Computer Science for Decision Support.</strong>
           Focus on computer science, machine learning, mathematical
           optimization, and graph-based methods.
         </p>
@@ -120,7 +120,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
           <strong>Header compression for IoT networks.</strong>
           Developed clustering-based methods to identify similarities
           between transmission headers and generate compression rules
-          based on RFC 8724.
+          based on <a href="[https://snide.irisa.fr](https://www.rfc-editor.org/info/rfc8724/)">RFC 8724</a>.
         </p>
       </div>
     </article>
@@ -128,8 +128,9 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
     <article class="experience-item">
       <div class="experience-date">2014–2016</div>
       <div class="experience-content">
-        <h3>Intensive Preparatory Program for Engineering Schools</h3>
-        <p class="experience-place">Lycée Rabelais · MPSI → MP · France</p>
+        <h3>Preparatory Program for Engineering Schools</h3>
+        <p class="experience-place">Lycée Rabelais ·  France</p>
+        <strong>Intensive  courses in mathematics and physics.</strong> Specialisation in mathematics (MPSI → MP).
       </div>
     </article>
 
@@ -328,14 +329,14 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
   </p>
 
   <h3 id="research-mentors">Mentors</h3>
-
-  <p>
-    My PhD research was conducted within the
-    <strong>SRCD department of IMT Atlantique and IRISA</strong>,
-    under the supervision of:
-  </p>
-
   <ul>
+    <li>
+      <strong>
+        <a href="https://danoy.gforge.uni.lu/">Prof. Grégoire Danoy</a>
+      </strong>
+      — Professor, PCOG, SnT, University of Luxembourg.
+      <em>Postdoctoral mentor</em>
+    </li>
     <li>
       <strong>
         <a href="https://www.imt-atlantique.fr/fr/personne/patrick-maille">Prof. Patrick Maillé</a>
@@ -349,22 +350,6 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
       </strong>
       — Full Professor, SRCD, IRISA, IMT Atlantique, France.
       <em>PhD director</em>
-    </li>
-  </ul>
-
-  <p>
-    My current postdoctoral research is conducted within the
-    <strong>PCOG group at the University of Luxembourg</strong>,
-    under the mentorship of:
-  </p>
-
-  <ul>
-    <li>
-      <strong>
-        <a href="https://danoy.gforge.uni.lu/">Prof. Grégoire Danoy</a>
-      </strong>
-      — Professor, PCOG, SnT, University of Luxembourg.
-      <em>Postdoctoral mentor</em>
     </li>
   </ul>
 
@@ -431,12 +416,6 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 <hr>
 <section id="teaching" class="page-section">
   <h2>Teaching</h2>
-
-  <p>
-    Teaching across mathematical foundations, theoretical computer science,
-    optimization algorithms, and computational methods, connecting theory
-    with practical problem solving.
-  </p>
 
   <div class="teaching-overview">
     <div class="teaching-theme">
@@ -520,7 +499,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
   <h3>IMT Atlantique · Rennes · 2022–2023</h3>
 
   <p>
-    Practice teaching in the international Master's program in Information
+   <strong>Practice teaching</strong>  in the international Master's program in Information
     Technology.
   </p>
   <ul>
@@ -540,7 +519,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
 <section id="service" class="page-section">
   <h2>Reviewing &amp; Service</h2>
-
+   <h3>Reviewing and Chairing</h3>
   <ul>
     <li>
       <strong>Shadow PC Chair</strong> — ALGOTEL-Cores 2025; reviewer
