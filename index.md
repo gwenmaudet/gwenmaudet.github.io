@@ -5,7 +5,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 ---
 
 <div class="home-intro" id="top">
-<h2>Gwen Maudet</h2>
+<h1>Gwen Maudet</h1>
   <img src="gwen.JPG" alt="Portrait of Gwen Maudet" class="profile-photo">
 
   <div class="intro-text">
