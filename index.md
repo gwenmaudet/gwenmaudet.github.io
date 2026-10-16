@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "Gwen Maudet"
+title: ""
 description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathematical optimization, machine learning for MILP, and IoT."
 ---
 
 <div class="home-intro" id="top">
-
+<h2>Gwen Maudet</h2>
   <img src="gwen.JPG" alt="Portrait of Gwen Maudet" class="profile-photo">
 
   <div class="intro-text">
