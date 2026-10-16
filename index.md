@@ -130,7 +130,7 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
       <div class="experience-content">
         <h3>Preparatory Program for Engineering Schools</h3>
         <p class="experience-place">Lycée Rabelais ·  France</p>
-        <strong>Intensive  courses in mathematics and physics.</strong> Specialisation in mathematics (MPSI → MP).
+        <p> <strong>Intensive  courses in mathematics and physics.</strong> Specialisation in mathematics (MPSI → MP). </p>
       </div>
     </article>
 
