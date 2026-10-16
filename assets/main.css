@@ -86,7 +86,7 @@ body {
 /* Leave room for sticky navigation when jumping to a section */
 .page-content section[id],
 .page-content h2[id] {
-  scroll-margin-top: 60px;
+  scroll-margin-top: 10px;
 }
 
 /* Main sections of the single page */
