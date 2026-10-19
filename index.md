@@ -387,12 +387,12 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
       <em>PhD supervisor</em>
     </li>
     <li>
-      <strong>
-        <a href="https://www.imt-atlantique.fr/fr/personne/laurent-toutain">Prof. Laurent Toutain</a>
-      </strong>
-      — Full Professor, SRCD, IRISA, IMT Atlantique, France.
-      <em>PhD director</em>
-    </li>
+    <strong>
+      <a href="https://ea18.ugent.be/people/4/el-houssaine-aghezzaf/">Prof. El-Houssaine Aghezzaf</a>
+    </strong>
+    — Professor, ISyE-O, ISyE-PD, Ghent University, Belgium.
+    <em>Collaborator on grant proposals</em>
+  </li>
   </ul>
 
 </section>
