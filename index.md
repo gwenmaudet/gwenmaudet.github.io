@@ -195,6 +195,41 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
   </div>
 
+<h3 id="grants">Grant proposals</h3>
+
+<ul>
+  <li>
+    <strong>Learning-Enhanced Two-Stage Stochastic Mixed-Integer Optimization for On-Site Energy Management</strong>,
+    <a href="https://www.fnr.lu/">FNR</a>–<a href="https://www.fwo.be/en/">FWO</a>
+    bilateral funding programme. <strong>Lead writer.</strong>
+
+    <p>
+      Bilateral project led by the University of Luxembourg in collaboration
+      with Ghent University, aiming to accelerate stochastic MILP solving
+      through machine learning for both exact and inexact optimization
+      methods. The proposal requests €1.2 million across the two institutions
+      and includes an industrial partnership with Laborelec, ENGIE's R&amp;D
+      centre, to improve the efficiency of its
+      <a href="https://www.laborelec.com/ems-solution-to-maximize-renewable-power-self-consumption/">energy management system</a>.
+      Decision expected in November 2026.
+    </p>
+  </li>
+
+  <li>
+    <strong>Machine Learning-Enhanced Stochastic Optimization</strong>,
+    <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">Marie Skłodowska-Curie Actions Postdoctoral Fellowships</a>.
+    <strong>Lead writer.</strong>
+
+    <p>
+      Proposal developed in collaboration with Ghent University to integrate
+      machine learning into stochastic MILP solving, with a focus on
+      accelerating exact optimization methods. The proposal requests funding
+      for a two-year postdoctoral fellowship. Decision expected in April 2027.
+    </p>
+  </li>
+</ul>
+
+
   <h3 id="research-publications">Publications</h3>
 
   <h4>International Journals</h4>
