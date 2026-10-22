@@ -406,18 +406,18 @@ description: "Academic profile of Gwen Maudet, postdoctoral researcher in mathem
 
   <h3>PhD Students</h3>
   <ul>
+        <li>
+      <strong>2023–Present · Alisa Vorokhta</strong> — Machine learning for
+      improving lower-bound computation.
+    </li>
     <li>
       <strong>2026–Present · Simon Renard</strong> — Enhancing solver
       branching strategies through machine learning.
     </li>
     <li>
-      <strong>2026–Present · Muhammad Arslan Tariq</strong> — Streaming
+      <strong>2026 · Muhammad Arslan Tariq</strong> — Streaming
       through multi-cloud, multi-path connections; path optimization using
       MILP formulations.
-    </li>
-    <li>
-      <strong>2023–Present · Alisa Vorokhta</strong> — Machine learning for
-      improving lower-bound computation.
     </li>
   </ul>
 
